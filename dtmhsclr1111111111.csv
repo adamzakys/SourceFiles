@@ -1,0 +1,619 @@
+nomor_pendaftaran,JK,bidikmisi,Sekolah,Kabupaten,Provinsi,Pilihan 1,Pilihan 2,Ranking Sekolah,Nilai Mapel UN,Lulus pada Prodi,Lulus Pilihan,X1,X2,X3,X4,X5,X6,X7,X8
+4180000187,L,Reguler,SMKS GLOBAL MULIA,Kab Bekasi,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,65,83.94,Tidak Lulus,Tidak Lulus,10.2,10.5,1,0,10.5,10.5,10.5,10.5
+4180000621,P,Reguler,SMAN 8 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,187,82.51,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180020885,P,Reguler,SMAN 1 MANONJAYA,Kab Tasikmalaya,Jawa Barat,AGRIBISNIS,Tidak Memilih,209,84.15,AGRIBISNIS,pil_1,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180001869,P,Reguler,SMKS KESEHATAN KH ILYAS RUHIYAT,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,67,84.91,PENDIDIKAN MATEMATIKA,pil_1,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180002560,P,Reguler,SMKN 1 KARAWANG,Kab Karawang,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,139,80.86,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180002960,P,Bidik Misi,SMAN 1 CISAGA,Kab Ciamis,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,40,83.29,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180003440,L,Reguler,MAN 2 KOTA BEKASI,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,134,81.78,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180004446,P,Reguler,SMKS KESEHATAN KH ILYAS RUHIYAT,Kab Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,67,84.5,Tidak Lulus,Tidak Lulus,10.5,10.6,1,0,10.6,10.6,10.6,10.6
+4180005007,P,Reguler,SMKS FARMASI BINTANG HARAPAN,Kab Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,35,84.73,Tidak Lulus,Tidak Lulus,10.4,10.6,1,0,10.6,10.6,10.6,10.6
+4180005364,P,Reguler,SMK DUTA PRATAMA INDONESIA,Kab Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,35,84.85,Tidak Lulus,Tidak Lulus,10.4,10.6,1,0,10.6,10.6,10.6,10.6
+4180005655,P,Reguler,MAN CIBINONG,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,157,80.7,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180092113,L,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,AGRIBISNIS,Tidak Memilih,259,83.26,AGRIBISNIS,pil_1,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180009368,P,Reguler,SMKN 15 JAKARTA,Kota Jakarta Selatan,DKI Jakarta,TEKNIK SIPIL ,Tidak Memilih,93,81.68,Tidak Lulus,Tidak Lulus,11.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180010240,P,Reguler,SMK PENERBANGAN HASANUDDIN MAKASSAR,Kota Makassar,Sulawesi Selatan,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,7,88.07,Tidak Lulus,Tidak Lulus,9.7,11,1,0,11,11,11,11
+4180011604,L,Reguler,SMAN 9 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,149,81.56,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180012638,L,Bidik Misi,MAN CIPASUNG,Kab Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,160,83.08,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180310275,L,Bidik Misi,SMAN 5 GARUT,Kab Garut,Jawa Barat,AGRIBISNIS,Tidak Memilih,240,88.31,AGRIBISNIS,pil_1,11.1,11,1,0,11,11,11,11
+4180015168,P,Reguler,SMAS AR RISSALAH,Kab Ciamis,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,21,84.6,Tidak Lulus,Tidak Lulus,10.7,10.6,1.1,0,10.6,10.6,10.6,10.6
+4180015207,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,259,81.92,EKONOMI PEMBANGUNAN,pil_1,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180015461,P,Reguler,SMAN 1 BANJARSARI,Kab Ciamis,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,237,83.55,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180015773,P,Reguler,MAN CIBEUREUM,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,20,83.34,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180016347,P,Reguler,SMAN 1 CAMPAKA,Kab Purwakarta,Jawa Barat,AKUNTANSI,Tidak Memilih,110,81.5,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180016891,P,Bidik Misi,SMKS FARMASI YPIB MAJENANG,Kab Cilacap,Jawa Tengah,KESEHATAN MASYARAKAT,Tidak Memilih,45,86.35,Tidak Lulus,Tidak Lulus,10.5,10.8,1,0,10.8,10.8,10.8,10.8
+4180017619,L,Reguler,MAN CIBEUREUM,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,34,79.42,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180018789,L,Reguler,MAN CIBEUREUM,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,34,79.95,Tidak Lulus,Tidak Lulus,10,10,1,0,10,10,10,10
+4180019021,P,Reguler,SMAN 9 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,132,81.67,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180019769,L,Reguler,SMKN MANONJAYA,Kab Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,116,79.65,Tidak Lulus,Tidak Lulus,10.8,10,1,0,10,10,10,10
+4180020136,P,Reguler,SMKS PUTRA BANGSA DEPOK,Kota Depok,Jawa Barat,AKUNTANSI,Tidak Memilih,46,87.07,Tidak Lulus,Tidak Lulus,10.4,10.9,1,0,10.9,10.9,10.9,10.9
+4180494515,P,Reguler,SMAN 1 LAKBOK,Kab Ciamis,Jawa Barat,AGRIBISNIS,Tidak Memilih,188,84.28,AGRIBISNIS,pil_1,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180021318,P,Reguler,SMAS PLUS AL WAHID SALAWU,Kab Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,17,81.74,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180022082,P,Reguler,SMKS KESEHATAN BHAKTI KENCANA SUBANG,Kab Subang,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,159,84.7,Tidak Lulus,Tidak Lulus,10.8,10.6,1,0,10.6,10.6,10.6,10.6
+4180023183,P,Reguler,SMKN MANONJAYA,Kab Tasikmalaya,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,76,79.33,Tidak Lulus,Tidak Lulus,10.4,9.9,1,0,9.9,9.9,9.9,9.9
+4180023788,L,Bidik Misi,SMAN 5 GARUT,Kab Garut,Jawa Barat,AGROTEKNOLOGI,Tidak Memilih,240,88.63,AGROTEKNOLOGI,pil_1,11.1,11.1,1,0,11.1,11.1,11.1,11.1
+4180025082,P,Reguler,SMAN 6 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,268,81.91,Tidak Lulus,Tidak Lulus,10.6,10.2,1,0,10.2,10.2,10.2,10.2
+4180025450,P,Reguler,SMAN 1 BANJARSARI,Kab Ciamis,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,237,82.7,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180025861,L,Reguler,SMAN 1 PARIGI,Kab Ciamis,Jawa Barat,ILMU POLITIK,Tidak Memilih,145,86.04,ILMU POLITIK,pil_1,10.8,10.8,1,0,10.8,10.8,10.8,10.8
+4180026661,P,Reguler,SMAN 1 CILIMUS,Kab Kuningan,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,200,82.17,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180027413,L,Reguler,SMAN 1 RUMPIN,Kab Bogor,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,75,81.54,Tidak Lulus,Tidak Lulus,10.2,10.2,1.1,0,10.2,10.2,10.2,10.2
+4180027535,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,109,83.91,EKONOMI PEMBANGUNAN,pil_1,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180030870,P,Reguler,SMKN 1 BANJAR,Kota Banjar,Jawa Barat,AKUNTANSI,Tidak Memilih,157,82.2,Tidak Lulus,Tidak Lulus,10.6,10.3,1,0,10.3,10.3,10.3,10.3
+4180032885,P,Bidik Misi,MAN CIPASUNG,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,160,82.9,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180033603,P,Reguler,SMA NEGERI 1 SINDANG BARANG,Kab Cianjur,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,108,84,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180035690,P,Bidik Misi,SMAN 2 SUMEDANG,Kab Sumedang,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,106,82.64,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180035812,P,Reguler,MAN CIBINONG,Kab Bogor,Jawa Barat,AKUNTANSI,Tidak Memilih,157,81.2,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180036144,L,Reguler,SMAN 7 GARUT,Kab Garut,Jawa Barat,GIZI,Tidak Memilih,188,81.07,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180036854,L,Reguler,SMKN 1 CIAMIS,Kab Ciamis,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,36,83.35,Tidak Lulus,Tidak Lulus,10.8,10.4,1,0,10.4,10.4,10.4,10.4
+4180037266,L,Reguler,SMA NEGERI 1 CIPARI,Kab Cilacap,Jawa Tengah,TEKNIK SIPIL ,Tidak Memilih,92,81.69,Tidak Lulus,Tidak Lulus,10.1,10.2,1,0,10.2,10.2,10.2,10.2
+4180037371,P,Reguler,SMKS KESEHATAN LOGOS,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,106,79.16,Tidak Lulus,Tidak Lulus,10.5,9.9,1,0,9.9,9.9,9.9,9.9
+4180039501,L,Reguler,SMAN 1 RANCAH,Kab Ciamis,Jawa Barat,AKUNTANSI,Tidak Memilih,138,86.14,Tidak Lulus,Tidak Lulus,10.9,10.8,1,0,10.8,10.8,10.8,10.8
+4180039696,P,Reguler,MAN CIKALONG,Kab Tasikmalaya,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,87,80.04,Tidak Lulus,Tidak Lulus,10.2,10,1.2,0,10,10,10,10
+4180040041,L,Reguler,SMKN 1 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,64,82.13,Tidak Lulus,Tidak Lulus,10.2,10.3,1,0,10.3,10.3,10.3,10.3
+4180040255,P,Reguler,SMAN 2 TAMBUN UTARA,Kab Bekasi,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,119,82.72,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180040515,L,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,109,81.87,PENDIDIKAN SEJARAH,pil_1,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180040787,P,Reguler,MAN CIBEUREUM,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,34,80.66,Tidak Lulus,Tidak Lulus,10,10.1,1,0,10.1,10.1,10.1,10.1
+4180040880,P,Reguler,SMAN 2 KABUPATEN TANGERANG,Kab Tangerang,Banten,PENDIDIKAN BIOLOGI,Tidak Memilih,201,86.44,PENDIDIKAN BIOLOGI,pil_1,11,10.8,1,0,10.8,10.8,10.8,10.8
+4180041098,L,Reguler,SMAN 9 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,149,80.71,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180041930,P,Reguler,SMAN 1 BANJARSARI,Kab Ciamis,Jawa Barat,AGRIBISNIS ,Tidak Memilih,237,83.29,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180042977,P,Reguler,SMAN 6 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,268,82.13,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180043020,P,Bidik Misi,SMAN 28 GARUT,Kab Garut,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,58,87.89,Tidak Lulus,Tidak Lulus,11.1,11,1,0,11,11,11,11
+4180043078,P,Reguler,SMAN 5 GARUT,Kab Garut,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,240,91.43,PENDIDIKAN MATEMATIKA,pil_1,11.5,11.4,1,0,11.4,11.4,11.4,11.4
+4180043280,P,Reguler,MAN 2  BEKASI,Kab Bekasi,Jawa Barat,GIZI,Tidak Memilih,158,85.86,Tidak Lulus,Tidak Lulus,10.6,10.7,1,0,10.7,10.7,10.7,10.7
+4180205527,L,Reguler,SMAN 1 LEMAHABANG,Kab Cirebon,Jawa Barat,AGROTEKNOLOGI,Tidak Memilih,206,84.05,AGROTEKNOLOGI,pil_1,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180044567,L,Bidik Misi,SMK NEGERI 1 WANAREJA,Kab Cilacap,Jawa Tengah,TEKNIK SIPIL ,Tidak Memilih,129,79.07,Tidak Lulus,Tidak Lulus,10.1,9.9,1.1,0,9.9,9.9,9.9,9.9
+4180045411,L,Bidik Misi,SMAS CILEDUG TAROGONG,Kab Garut,Jawa Barat,MANAJEMEN,Tidak Memilih,66,78.76,Tidak Lulus,Tidak Lulus,9.9,9.8,1,0,9.8,9.8,9.8,9.8
+4180046414,L,Bidik Misi,SMK NEGERI 1 WANAREJA,Kab Cilacap,Jawa Tengah,TEKNIK SIPIL ,Tidak Memilih,129,77.98,Tidak Lulus,Tidak Lulus,10.8,9.7,1,0,9.7,9.7,9.7,9.7
+4180046841,P,Reguler,MAN SUKAMANAH,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,254,79.23,Tidak Lulus,Tidak Lulus,10.1,9.9,1.2,0,9.9,9.9,9.9,9.9
+4180047811,P,Reguler,SMAN 1 CILIMUS,Kab Kuningan,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,157,82.31,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180048125,P,Reguler,SMAN 1 CILIMUS,Kab Kuningan,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,157,83.77,PENDIDIKAN BIOLOGI,pil_1,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180048424,P,Reguler,SMAN 1 MANONJAYA,Kab Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,209,84.3,Tidak Lulus,Tidak Lulus,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180048976,P,Reguler,SMAN 9 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,149,84,KESEHATAN MASYARAKAT,pil_1,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180049819,P,Bidik Misi,SMAN 1 DUKUPUNTANG,Kab Cirebon,Jawa Barat,AGRIBISNIS ,Tidak Memilih,202,83.44,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180050244,P,Bidik Misi,SMAN 10 GARUT,Kab Garut,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,148,78.88,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180050429,P,Reguler,SMAN 3 BANJAR,Kota Banjar,Jawa Barat,MANAJEMEN,Tidak Memilih,131,82.44,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180053971,L,Reguler,SMAN 1 BANJARSARI,Kab Ciamis,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,151,82.75,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180054189,P,Bidik Misi,SMAN 4 GARUT,Kab Garut,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,130,83.08,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180054642,P,Bidik Misi,MAN 2 INDRAMAYU,Kab Indramayu,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,48,81.36,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180054953,P,Bidik Misi,SMAN 1 PURWADADI,Kab Subang,Jawa Barat,MANAJEMEN,Tidak Memilih,208,76.55,Tidak Lulus,Tidak Lulus,9.7,9.6,1,0,9.6,9.6,9.6,9.6
+4180055250,L,Reguler,SMAN 3 BANJAR,Kota Banjar,Jawa Barat,MANAJEMEN,Tidak Memilih,131,79.14,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180060881,P,Reguler,SMAS IBNU HAJAR,Kab Bogor,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,61,90.22,PENDIDIKAN MATEMATIKA,pil_1,11.3,11.3,1,0,11.3,11.3,11.3,11.3
+4180061207,P,Reguler,SMKS KESEHATAN KH ILYAS RUHIYAT,Kab Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,67,85.48,KESEHATAN MASYARAKAT,pil_1,10.3,10.7,1,0,10.7,10.7,10.7,10.7
+4180061617,P,Bidik Misi,SMAN 8 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,187,80.75,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180062968,P,Reguler,SMAN 1 BANJAR,Kota Banjar,Jawa Barat,MANAJEMEN,Tidak Memilih,57,82.13,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180064057,P,Reguler,SMAN 1 CIAWI BOGOR,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,195,81.95,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180066500,L,Reguler,SMAN 1 LEMAHABANG,Kab Cirebon,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,206,84.6,Tidak Lulus,Tidak Lulus,10.7,10.6,1.1,0,10.6,10.6,10.6,10.6
+4180066972,P,Reguler,MAN CILEDUG KAB CIREBON,Kota Cirebon,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,39,80.39,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180071974,P,Reguler,SMAS AR RISSALAH,Kab Ciamis,Jawa Barat,PENDIDIKAN LUAR SEKOLAH,Tidak Memilih,21,85.07,PENDIDIKAN LUAR SEKOLAH,pil_1,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180072679,P,Reguler,SMAN 1 RANCAH,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,138,84.25,Tidak Lulus,Tidak Lulus,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180446399,P,Reguler,SMAS TAMAN HARAPAN 2,Kota Bekasi,Jawa Barat,AGROTEKNOLOGI,Tidak Memilih,72,85.81,AGROTEKNOLOGI,pil_1,10.9,10.7,1,0,10.7,10.7,10.7,10.7
+4180074547,L,Reguler,SMAN 2 CIKARANG PUSAT,Kab Bekasi,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,108,79,Tidak Lulus,Tidak Lulus,9.9,9.9,1,0,9.9,9.9,9.9,9.9
+4180075027,L,Reguler,SMAN 3 KUNINGAN,Kab Kuningan,Jawa Barat,ILMU POLITIK,Tidak Memilih,219,81.12,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180075753,L,Bidik Misi,SMAN 1 CISAYONG,Kab Tasikmalaya,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,44,82.97,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180076203,L,Reguler,SMAN 1 CISAYONG,Kab Tasikmalaya,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,40,81.95,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180076253,P,Reguler,SMAS PGRI SALAWU,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN EKONOMI,Tidak Memilih,28,83.49,PENDIDIKAN EKONOMI,pil_1,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180078058,P,Bidik Misi,MAN BUNTET PESANTREN,Kota Cirebon,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,45,81.71,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180078543,P,Reguler,SMAS PLUS PESANTREN AMANAH MUHAMMDIYAH,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,22,83.32,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180080695,P,Reguler,SMKS KESEHATAN LOGOS,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,106,82.51,Tidak Lulus,Tidak Lulus,10.2,10.3,1,0,10.3,10.3,10.3,10.3
+4180082333,L,Reguler,SMAN 1 KLARI,Kab Karawang,Jawa Barat,MANAJEMEN,Tidak Memilih,30,79.61,Tidak Lulus,Tidak Lulus,9.9,10,1,0,10,10,10,10
+4180083340,L,Reguler,SMKN 2 BANJAR,Kota Banjar,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,121,83.41,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180083718,L,Bidik Misi,SMAN 1 SURADE,Kab Sukabumi,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,217,84.81,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180084433,L,Reguler,MAS YASPI,Kab Sukabumi,Jawa Barat,AKUNTANSI,Tidak Memilih,35,83.61,Tidak Lulus,Tidak Lulus,10.4,10.5,1,0,10.5,10.5,10.5,10.5
+4180556174,P,Reguler,SMAS YADIKA 11,Kota Bekasi,Jawa Barat,AGROTEKNOLOGI,Tidak Memilih,122,83.3,AGROTEKNOLOGI,pil_1,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180086068,P,Reguler,SMAS GALATIA,Kota Bekasi,Jawa Barat,AKUNTANSI,Tidak Memilih,8,81.75,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180086782,P,Reguler,SMKS PGRI 2 CIBINONG,Kab Bogor,Jawa Barat,AKUNTANSI,Tidak Memilih,255,84.04,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180087521,P,Reguler,SMAN 3 PURWAKARTA,Kab Purwakarta,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,189,81.06,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180088374,L,Reguler,MAN CIANJUR,Kab Cianjur,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,307,82.65,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180088816,P,Bidik Misi,MAN CIANJUR,Kab Cianjur,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,307,83.04,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180025927,P,Bidik Misi,SMAN 7 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,AKUNTANSI,Tidak Memilih,155,86.38,AKUNTANSI,pil_1,10.8,10.8,1,0,10.8,10.8,10.8,10.8
+4180089509,P,Bidik Misi,MAN 2 CIAMIS,Kab Ciamis,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,147,78.01,Tidak Lulus,Tidak Lulus,9.9,9.8,1,0,9.8,9.8,9.8,9.8
+4180090844,P,Reguler,SMAS BINA BANGSA SEJAHTERA,Kota Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,101,83.04,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180091702,P,Reguler,SMAN 1 CAMPAKA,Kab Purwakarta,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,114,81.26,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180093518,P,Reguler,SMAS MUTIARA 17 AGUSTUS,Kota Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,71,84.24,Tidak Lulus,Tidak Lulus,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180093759,P,Reguler,SMAN 10 BEKASI,Kota Bekasi,Jawa Barat,AKUNTANSI,Tidak Memilih,234,82.87,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180095359,P,Bidik Misi,SMAS PGRI DEPOK,Kota Depok,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,36,81.9,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180095459,P,Reguler,SMAN 12 GARUT,Kab Garut,Jawa Barat,ILMU POLITIK,Tidak Memilih,83,85.79,ILMU POLITIK,pil_1,10.9,10.7,1.1,0,10.7,10.7,10.7,10.7
+4180095767,P,Reguler,SMKN 1 GARUT,Kab Garut,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,135,83.18,Tidak Lulus,Tidak Lulus,10.9,10.4,1,0,10.4,10.4,10.4,10.4
+4180095948,P,Reguler,SMAN 2 SUBANG,Kab Subang,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,285,78.31,Tidak Lulus,Tidak Lulus,10,9.8,1,0,9.8,9.8,9.8,9.8
+4180096243,L,Reguler,SMKN 2 KOTA BEKASI,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,103,82.88,Tidak Lulus,Tidak Lulus,10.2,10.4,1.1,0,10.4,10.4,10.4,10.4
+4180099905,L,Reguler,SMA KP CIWIDEY PASIRJAMBU,Kab Bandung,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,32,78.89,Tidak Lulus,Tidak Lulus,9.9,9.9,1,0,9.9,9.9,9.9,9.9
+4180100992,P,Bidik Misi,SMKN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,104,83.26,Tidak Lulus,Tidak Lulus,10.5,10.4,1.1,0,10.4,10.4,10.4,10.4
+4180101843,P,Reguler,SMA KP CIWIDEY PASIRJAMBU,Kab Bandung,Jawa Barat,PENDIDIKAN GEOGRAFI,Tidak Memilih,32,83.11,PENDIDIKAN GEOGRAFI,pil_1,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180103903,L,Bidik Misi,SMKS MUHAMMADIYAH TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,192,84.9,Tidak Lulus,Tidak Lulus,10.6,10.6,1,0,10.6,10.6,10.6,10.6
+4180104558,P,Reguler,SMAN 72 JAKARTA,Kota Jakarta Utara,DKI Jakarta,ILMU POLITIK,Tidak Memilih,108,80.55,Tidak Lulus,Tidak Lulus,10,10.1,1,0,10.1,10.1,10.1,10.1
+4180108477,L,Reguler,SMAN 1 JATISARI,Kab Karawang,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,211,82.06,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180109348,P,Bidik Misi,SMA BINA MUDA CICALENGKA,Kab Bandung,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,248,83.45,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180113112,P,Reguler,SMAN 2 CIKARANG PUSAT,Kab Bekasi,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,108,80.86,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180114018,P,Reguler,MAN CIBEUREUM,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,20,79.27,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180115083,P,Bidik Misi,SMAN 92 JAKARTA,Kota Jakarta Utara,DKI Jakarta,GIZI,Tidak Memilih,108,83.63,Tidak Lulus,Tidak Lulus,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180115264,P,Reguler,SMAN 3 BANJAR,Kota Banjar,Jawa Barat,ILMU POLITIK,Tidak Memilih,131,79.71,Tidak Lulus,Tidak Lulus,10.3,10,1,0,10,10,10,10
+4180115571,P,Reguler,SMAN 92 JAKARTA,Kota Jakarta Utara,DKI Jakarta,PENDIDIKAN BIOLOGI,Tidak Memilih,108,80.08,Tidak Lulus,Tidak Lulus,10,10,1,0,10,10,10,10
+4180562315,P,Reguler,SMK DARUSSALAM KARANGPUCUNG,Kab Cilacap,Jawa Tengah,EKONOMI SYARIAH,Tidak Memilih,106,87.65,EKONOMI SYARIAH,pil_1,10.3,11,1,0,11,11,11,11
+4180119175,P,Bidik Misi,SMAN 1 PARIGI,Kab Ciamis,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,160,88.98,KESEHATAN MASYARAKAT,pil_1,11.3,11.1,1,0,11.1,11.1,11.1,11.1
+4180001694,P,Reguler,SMKS KESEHATAN KH ILYAS RUHIYAT,Kab Tasikmalaya,Jawa Barat,GIZI,Tidak Memilih,67,85.04,GIZI,pil_1,10.6,10.6,1,0,10.6,10.6,10.6,10.6
+4180003901,P,Reguler,SMKS KESEHATAN KH ILYAS RUHIYAT,Kab Tasikmalaya,Jawa Barat,GIZI,Tidak Memilih,67,84.73,GIZI,pil_1,10.4,10.6,1,0,10.6,10.6,10.6,10.6
+4180121322,L,Reguler,SMKN 2 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,127,81.01,Tidak Lulus,Tidak Lulus,10.9,10.1,1,0,10.1,10.1,10.1,10.1
+4180124446,P,Reguler,SMAS PGRI 1 BEKASI,Kota Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,125,82.6,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180124945,L,Reguler,SMAN 8 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI ",Tidak Memilih,183,80.11,Tidak Lulus,Tidak Lulus,10.1,10,1.1,0,10,10,10,10
+4180126316,L,Reguler,SMAN 13 GARUT,Kab Garut,Jawa Barat,AGRIBISNIS ,Tidak Memilih,184,77.47,Tidak Lulus,Tidak Lulus,9.8,9.7,1,0,9.7,9.7,9.7,9.7
+4180127177,P,Reguler,SMAN 1 BANJARSARI,Kab Ciamis,Jawa Barat,AKUNTANSI,Tidak Memilih,237,83.45,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180128526,P,Bidik Misi,SMAN 1 PAMIJAHAN,Kab Bogor,Jawa Barat,AKUNTANSI,Tidak Memilih,123,79.87,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180128796,L,Bidik Misi,SMAS BINA PUTERA KOPO,Kab Serang,Banten,TEKNIK SIPIL ,Tidak Memilih,62,80.15,Tidak Lulus,Tidak Lulus,10.2,10,1,0,10,10,10,10
+4180129561,L,Bidik Misi,SMAS BINA PUTERA KOPO,Kab Serang,Banten,MANAJEMEN,Tidak Memilih,62,81.48,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180058532,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,259,85.38,KESEHATAN MASYARAKAT,pil_1,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180115876,P,Reguler,SMAN 1 PANGANDARAN,Kab Ciamis,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,213,87.28,KESEHATAN MASYARAKAT,pil_1,11,10.9,1,0,10.9,10.9,10.9,10.9
+4180130814,P,Reguler,SMKN RAJAPOLAH,Kab Tasikmalaya,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,88,76.91,Tidak Lulus,Tidak Lulus,10.9,9.6,1,0,9.6,9.6,9.6,9.6
+4180131416,P,Bidik Misi,SMAN 1 PELABUHAN RATU,Kab Sukabumi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,226,82.62,Tidak Lulus,Tidak Lulus,10.6,10.3,1,0,10.3,10.3,10.3,10.3
+4180131529,P,Bidik Misi,SMAN 6 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,268,82.44,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180131691,L,Reguler,SMKN 1 GANTAR,Kab Indramayu,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,16,83.28,Tidak Lulus,Tidak Lulus,9.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180132268,L,Reguler,SMAN 1 TALAGA,Kab Majalengka,Jawa Barat,MANAJEMEN,Tidak Memilih,188,83.69,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180132686,L,Reguler,SMKN 1 GANTAR,Kab Indramayu,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,16,82.39,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180132911,P,Bidik Misi,SMAN 1 JAMPANGKULON,Kab Sukabumi,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,226,84.53,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180132957,L,Reguler,SMKS ANALIS KESEHATAN DITKESAD,Kota Jakarta Timur,DKI Jakarta,KESEHATAN MASYARAKAT,Tidak Memilih,122,84.96,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180135729,L,Bidik Misi,SMKS FADRIS,Kab Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,14,85.09,Tidak Lulus,Tidak Lulus,10,10.6,1,0,10.6,10.6,10.6,10.6
+4180136913,P,Reguler,SMAN 2 CIAMIS,Kab Ciamis,Jawa Barat,ILMU POLITIK,Tidak Memilih,102,84.03,Tidak Lulus,Tidak Lulus,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180138091,P,Reguler,SMAN 1 SURADE,Kab Sukabumi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,217,84.2,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180138097,P,Bidik Misi,SMAN 1 KADUGEDE,Kab Kuningan,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,138,81.1,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180140383,L,Reguler,MAN CIPASUNG,Kab Tasikmalaya,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,160,84.08,EKONOMI SYARIAH,pil_1,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180141114,L,Reguler,SMAN 1 BANJAR,Kota Banjar,Jawa Barat,MANAJEMEN,Tidak Memilih,130,84.4,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180142798,P,Reguler,SMAN 5 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,238,83.93,PENDIDIKAN BIOLOGI,pil_1,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180143145,P,Bidik Misi,SMAN 1 JATIWARAS,Kab Tasikmalaya,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,65,84.87,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180148437,P,Reguler,MAN 2 INDRAMAYU,Kab Indramayu,Jawa Barat,MANAJEMEN,Tidak Memilih,61,80.6,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180148513,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,109,81.92,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180148618,L,Reguler,SMK TARUNA BANGSA BEKASI,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,63,84.6,Tidak Lulus,Tidak Lulus,10.3,10.6,1,0,10.6,10.6,10.6,10.6
+4180150226,P,Reguler,SMAN 2 CIAMIS,Kab Ciamis,Jawa Barat,AKUNTANSI,Tidak Memilih,102,86.24,Tidak Lulus,Tidak Lulus,10.8,10.8,1,0,10.8,10.8,10.8,10.8
+4180151239,P,Reguler,MAN AWIPARI,Kota Tasikmalaya,Jawa Barat,AGRIBISNIS ,Tidak Memilih,136,82.03,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180151595,L,Reguler,SMAN 1 BABELAN,Kab Bekasi,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,178,79.96,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180152372,P,Bidik Misi,SMAN 1 DUKUPUNTANG,Kab Cirebon,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,202,84.65,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180153324,P,Reguler,SMAN 92 JAKARTA,Kota Jakarta Utara,DKI Jakarta,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,35,80.63,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180153888,P,Bidik Misi,SMAN 5 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,238,85.6,Tidak Lulus,Tidak Lulus,10.9,10.7,1,0,10.7,10.7,10.7,10.7
+4180154036,L,Reguler,SMAN 6 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,268,82.29,Tidak Lulus,Tidak Lulus,10.6,10.3,1,0,10.3,10.3,10.3,10.3
+4180155471,P,Reguler,SMAN 3 CIAMIS,Kab Ciamis,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,106,82.63,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180155530,P,Reguler,SMA BINAUL UMMAH,Kab Kuningan,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,54,81.84,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180156110,P,Bidik Misi,SMAN 1 JALAKSANA,Kab Kuningan,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,157,82.14,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180156939,P,Bidik Misi,SMAN 1 SARIWANGI,Kab Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,52,83.56,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180157938,P,Bidik Misi,SMAN 5 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,238,82.71,Tidak Lulus,Tidak Lulus,10.6,10.3,1,0,10.3,10.3,10.3,10.3
+4180160349,P,Reguler,SMAN 2 KUNINGAN,Kab Kuningan,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,106,82.03,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180160992,P,Bidik Misi,SMKN 9 GARUT,Kab Garut,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,40,87.63,Tidak Lulus,Tidak Lulus,10.5,11,1,0,11,11,11,11
+4180161332,P,Bidik Misi,SMKS KRIJA BHAKTI UTAMA,Kab Garut,Jawa Barat,MANAJEMEN,Tidak Memilih,115,85.46,Tidak Lulus,Tidak Lulus,10.2,10.7,1.1,0,10.7,10.7,10.7,10.7
+4180162798,P,Reguler,SMAN 92 JAKARTA,Kota Jakarta Utara,DKI Jakarta,PENDIDIKAN EKONOMI,Tidak Memilih,137,84.9,Tidak Lulus,Tidak Lulus,10.6,10.6,1,0,10.6,10.6,10.6,10.6
+4180163700,P,Reguler,SMAN 92 JAKARTA,Kota Jakarta Utara,DKI Jakarta,ILMU POLITIK,Tidak Memilih,137,82.99,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180164035,P,Bidik Misi,SMAN 3 CIREBON,Kota Cirebon,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,252,81.76,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180165059,L,Reguler,MAN 2 KOTA BEKASI,Kota Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,134,77.68,Tidak Lulus,Tidak Lulus,9.9,9.7,1,0,9.7,9.7,9.7,9.7
+4180165707,P,Bidik Misi,SMAN 5 GARUT,Kab Garut,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,240,88.41,Tidak Lulus,Tidak Lulus,11.1,11.1,1,0,11.1,11.1,11.1,11.1
+4180166836,P,Bidik Misi,SMAN 4 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,AGRIBISNIS ,Tidak Memilih,296,81.02,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180167831,P,Reguler,SMAN 3 CIAMIS,Kab Ciamis,Jawa Barat,AKUNTANSI,Tidak Memilih,106,83.13,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180168114,P,Reguler,SMAN 1 CILAMAYA,Kab Karawang,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,257,81.17,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180169080,P,Bidik Misi,SMKS BINA KARYA MANDIRI 2,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,205,82.95,Tidak Lulus,Tidak Lulus,10.2,10.4,1,0,10.4,10.4,10.4,10.4
+4180170762,P,Reguler,SMAS ISLAM ASSYAFIYAH 1 JAKARTA,Kota Jakarta Selatan,DKI Jakarta,GIZI,Tidak Memilih,38,81.84,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180171656,P,Bidik Misi,MAN CIBALONG,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,87,82.68,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180172453,P,Bidik Misi,SMKS KRIJA BHAKTI UTAMA,Kab Garut,Jawa Barat,MANAJEMEN,Tidak Memilih,115,83.37,Tidak Lulus,Tidak Lulus,10.6,10.4,1.1,0,10.4,10.4,10.4,10.4
+4180155430,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,109,83.48,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,pil_1,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180175162,L,Bidik Misi,SMAN 2 BANJARSARI,Kab Ciamis,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,76,82.63,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180174813,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,34,83.6,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,pil_1,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180175804,L,Reguler,SMAS CINDERA MATA,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,96,83.09,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180176140,L,Bidik Misi,SMAS ISLAM TERPADU SITUWANGI CIKAJANG,Kab Garut,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,18,87.13,Tidak Lulus,Tidak Lulus,10.9,10.9,1,0,10.9,10.9,10.9,10.9
+4180179472,L,Bidik Misi,SMAN 10 GARUT,Kab Garut,Jawa Barat,MANAJEMEN,Tidak Memilih,148,78.14,Tidak Lulus,Tidak Lulus,9.9,9.8,1,0,9.8,9.8,9.8,9.8
+4180182589,P,Reguler,SMAN 4 PANDEGLANG,Kab Pandeglang,Banten,ILMU POLITIK,Tidak Memilih,171,80.04,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180183039,L,Bidik Misi,MAS DARUL FALAH,Kab Garut,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,46,85.89,Tidak Lulus,Tidak Lulus,10.9,10.7,1,0,10.7,10.7,10.7,10.7
+4180183879,L,Reguler,SMK GUNA DHARMA NUSANTARA,Kab Bandung,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,117,81.87,Tidak Lulus,Tidak Lulus,10.8,10.2,1,0,10.2,10.2,10.2,10.2
+4180185812,P,Reguler,SMAN 1 BANTARUJEG,Kab Majalengka,Jawa Barat,ILMU POLITIK,Tidak Memilih,92,80.33,Tidak Lulus,Tidak Lulus,10.2,10,1,0,10,10,10,10
+4180316183,P,Reguler,MAN AWIPARI,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,22,82.59,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,pil_1,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180186252,P,Reguler,SMA PGII 1,Kota Bandung,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,156,80.96,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180187888,P,Bidik Misi,SMAN 1 GARUT,Kab Garut,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,385,84.98,Tidak Lulus,Tidak Lulus,10.8,10.6,1,0,10.6,10.6,10.6,10.6
+4180330716,P,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,177,81.92,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,pil_1,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180190772,L,Reguler,SMKN 6 KOTA BEKASI,Kota Bekasi,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,66,80.28,Tidak Lulus,Tidak Lulus,10.5,10,1,0,10,10,10,10
+4180191887,P,Reguler,SMAS PESANTREN CINTAWANA,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN EKONOMI,Tidak Memilih,46,84.58,PENDIDIKAN EKONOMI,pil_1,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180192094,P,Reguler,MAN 2 KOTA BEKASI,Kota Bekasi,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,134,78.82,Tidak Lulus,Tidak Lulus,9.9,9.9,1,0,9.9,9.9,9.9,9.9
+4180192161,P,Bidik Misi,SMKN 2 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,102,81.76,Tidak Lulus,Tidak Lulus,9.9,10.2,1,0,10.2,10.2,10.2,10.2
+4180194006,P,Bidik Misi,SMAN 6 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,182,80.59,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180194163,P,Reguler,SMAN 1 SLIYEG,Kab Indramayu,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,150,84.58,Tidak Lulus,Tidak Lulus,10.6,10.6,1,0,10.6,10.6,10.6,10.6
+4180195377,P,Reguler,SMAN 3 SUKABUMI,Kota Sukabumi,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,28,85.03,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180195608,P,Bidik Misi,SMAN 5 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,238,85.09,Tidak Lulus,Tidak Lulus,10.9,10.6,1,0,10.6,10.6,10.6,10.6
+4180196054,P,Bidik Misi,SMAN 1 PABEDILAN,Kab Cirebon,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,108,80.96,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180196070,P,Reguler,SMAN 1 BABELAN,Kab Bekasi,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,169,79.87,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180197004,L,Reguler,SMAN 1 KOTO XI TARUSAN,Kab Pesisir Selatan,Sumatera Barat,TEKNIK INFORMATIKA,Tidak Memilih,132,85.97,Tidak Lulus,Tidak Lulus,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180198502,P,Bidik Misi,SMA NEGERI 2 KROYA,Kab Cilacap,Jawa Tengah,AGROTEKNOLOGI ,Tidak Memilih,50,84.34,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180344005,P,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,177,83.61,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,pil_1,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180201317,P,Bidik Misi,SMAN 1 CIHAURBEUTI,Kab Ciamis,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,170,83.33,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180201354,P,Reguler,SMAN 92 JAKARTA,Kota Jakarta Utara,DKI Jakarta,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,137,82.35,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180201814,P,Reguler,SMKN 1 JAPARA,Kab Kuningan,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,71,84.04,Tidak Lulus,Tidak Lulus,10.4,10.5,1,0,10.5,10.5,10.5,10.5
+4180202293,P,Bidik Misi,MAN AWIPARI,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,136,81.87,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180202829,P,Reguler,SMAN 1 KADUGEDE,Kab Kuningan,Jawa Barat,AGRIBISNIS ,Tidak Memilih,138,80.88,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180202959,P,Bidik Misi,SMAN 1 HAURGEULIS,Kab Indramayu,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI ",Tidak Memilih,152,82.61,Tidak Lulus,Tidak Lulus,10.5,10.3,1.1,0,10.3,10.3,10.3,10.3
+4180202971,P,Reguler,SMAN 4 PANDEGLANG,Kab Pandeglang,Banten,GIZI,Tidak Memilih,188,80.83,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180203017,L,Reguler,SMKN 1 JAPARA,Kab Kuningan,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,71,85.57,Tidak Lulus,Tidak Lulus,10.2,10.7,1,0,10.7,10.7,10.7,10.7
+4180203097,P,Reguler,SMAN DARMARAJA,Kab Sumedang,Jawa Barat,PENDIDIKAN GEOGRAFI,Tidak Memilih,119,83.99,PENDIDIKAN GEOGRAFI,pil_1,10.7,10.5,1.1,0,10.5,10.5,10.5,10.5
+4180203499,P,Bidik Misi,SMAN 1 CIHAURBEUTI,Kab Ciamis,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,170,82.99,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180203550,P,Bidik Misi,SMAN 1 CIHAURBEUTI,Kab Ciamis,Jawa Barat,AKUNTANSI,Tidak Memilih,170,85.31,Tidak Lulus,Tidak Lulus,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180203941,L,Reguler,SMAS ISLAM PB SOEDIRMAN 2 BEKASI,Kab Bekasi,Jawa Barat,PENDIDIKAN GEOGRAFI,Tidak Memilih,49,79.54,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180205803,P,Reguler,SMAN 8 CIREBON,Kota Cirebon,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,145,80.88,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180207282,P,Reguler,SMAN 5 TANGERANG,Kota Tangerang,Banten,PENDIDIKAN GEOGRAFI,Tidak Memilih,248,79.71,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180208359,P,Reguler,SMAN 11 KABUPATEN TANGERANG,Kab Tangerang,Banten,EKONOMI SYARIAH,Tidak Memilih,277,82.35,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180208376,P,Reguler,SMKS BINA PUTERA NUSANTARA TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,59,86.07,KESEHATAN MASYARAKAT,pil_1,10.3,10.8,1,0,10.8,10.8,10.8,10.8
+4180209707,P,Bidik Misi,SMAN 1 CIJERUK,Kab Bogor,Jawa Barat,AGRIBISNIS ,Tidak Memilih,57,82.22,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180211866,L,Reguler,SMKS PANJATEK,Kota Bekasi,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,65,84.2,Tidak Lulus,Tidak Lulus,10.1,10.5,1,0,10.5,10.5,10.5,10.5
+4180213145,P,Bidik Misi,SMAS KARTIKA VIII-1 JAKARTA,Kota Jakarta Selatan,DKI Jakarta,PENDIDIKAN LUAR SEKOLAH,Tidak Memilih,91,81.89,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180214030,P,Bidik Misi,SMAN 1 DRAMAGA,Kab Bogor,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,189,81.98,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180214119,P,Reguler,MAN 1 KOTA BEKASI,Kota Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,218,82.1,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180214182,L,Reguler,MAN 2 KOTA BEKASI,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,134,79.7,Tidak Lulus,Tidak Lulus,10,10,1,0,10,10,10,10
+4180215725,P,Reguler,SMAN 1 KRANGKENG,Kab Indramayu,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,126,84.84,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180216611,P,Reguler,SMKS MANDIRI,Kota Bekasi,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,23,86.3,Tidak Lulus,Tidak Lulus,10.4,10.8,1,0,10.8,10.8,10.8,10.8
+4180217230,P,Bidik Misi,SMAN 1 DUKUPUNTANG,Kab Cirebon,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,202,83.74,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180218293,P,Bidik Misi,SMAN 1 BANTARUJEG,Kab Majalengka,Jawa Barat,ILMU POLITIK,Tidak Memilih,144,82.02,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180219357,P,Bidik Misi,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,AKUNTANSI,Tidak Memilih,34,82.99,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180219520,L,Bidik Misi,SMAN 1 BEBER,Kab Cirebon,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,159,79.15,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180220206,P,Reguler,SMAN 2 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,158,86.56,PENDIDIKAN SEJARAH,pil_1,11,10.8,1,0,10.8,10.8,10.8,10.8
+4180225358,P,Reguler,SMAS PGRI CIBINONG,Kab Bogor,Jawa Barat,GIZI,Tidak Memilih,209,82.88,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180227244,P,Reguler,SMAN 1 CIMALAKA,Kab Sumedang,Jawa Barat,AKUNTANSI,Tidak Memilih,291,83.54,Tidak Lulus,Tidak Lulus,10.7,10.4,1,0,10.4,10.4,10.4,10.4
+4180053191,P,Reguler,SMAN 1 CIAWI,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA INGGRIS,Tidak Memilih,236,85.27,PENDIDIKAN BAHASA INGGRIS,pil_1,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180230594,P,Reguler,SMAS MUTIARA 17 AGUSTUS,Kota Bekasi,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,58,80.22,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180233427,P,Reguler,SMAN 1 CIAMIS,Kab Ciamis,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,298,86,PENDIDIKAN MATEMATIKA,pil_1,10.9,10.8,1,0,10.8,10.8,10.8,10.8
+4180235643,L,Reguler,SMAN 16 BEKASI,Kota Bekasi,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,159,82.64,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180236266,P,Reguler,SMAN 1 KRANGKENG,Kab Indramayu,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,126,86.12,Tidak Lulus,Tidak Lulus,10.9,10.8,1,0,10.8,10.8,10.8,10.8
+4180239829,L,Reguler,SMAN 1 LEMBAH MELINTANG,Kab Pasaman Barat,Sumatera Barat,TEKNIK SIPIL ,Tidak Memilih,228,86.97,Tidak Lulus,Tidak Lulus,11,10.9,1,0,10.9,10.9,10.9,10.9
+4180240018,L,Bidik Misi,SMAN 1 PARUNG KUDA,Kab Sukabumi,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,143,85.7,Tidak Lulus,Tidak Lulus,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180240656,P,Reguler,SMAN 2 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,277,86.21,KESEHATAN MASYARAKAT,pil_1,11,10.8,1,0,10.8,10.8,10.8,10.8
+4180240867,P,Bidik Misi,SMA NEGERI  1 CILAKU,Kab Cianjur,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,210,89.18,PENDIDIKAN BIOLOGI,pil_1,11.3,11.1,1,0,11.1,11.1,11.1,11.1
+4180240929,L,Bidik Misi,SMAN 1 TARAJU,Kab Tasikmalaya,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,66,84.56,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180241347,P,Reguler,SMAS AL HUDA CENGKARENG,Kota Jakarta Barat,DKI Jakarta,KESEHATAN MASYARAKAT,Tidak Memilih,116,80.41,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180241940,P,Reguler,SMAN 2 CIAMIS,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,102,82.7,Tidak Lulus,Tidak Lulus,10.6,10.3,1,0,10.3,10.3,10.3,10.3
+4180116113,P,Reguler,SMAN 1 PANGANDARAN,Kab Ciamis,Jawa Barat,PENDIDIKAN BAHASA INGGRIS,Tidak Memilih,213,88.65,PENDIDIKAN BAHASA INGGRIS,pil_1,11.2,11.1,1,0,11.1,11.1,11.1,11.1
+4180245703,P,Reguler,SMAS MUTIARA BARU,Kota Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,73,84.11,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180246628,L,Reguler,SMAS BINA BANGSA SEJAHTERA,Kota Bogor,Jawa Barat,MANAJEMEN,Tidak Memilih,74,80.27,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180130756,P,Reguler,SMAN 5 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA INGGRIS,Tidak Memilih,224,85.08,PENDIDIKAN BAHASA INGGRIS,pil_1,10.8,10.6,1,0,10.6,10.6,10.6,10.6
+4180247274,P,Reguler,SMAN 3 CIREBON,Kota Cirebon,Jawa Barat,GIZI,Tidak Memilih,252,82.57,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180248339,P,Bidik Misi,SMAN 1 MANONJAYA,Kab Tasikmalaya,Jawa Barat,AGRIBISNIS ,Tidak Memilih,209,85.41,Tidak Lulus,Tidak Lulus,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180248485,P,Reguler,SMKN 1 PADAHERANG,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,99,79.09,Tidak Lulus,Tidak Lulus,10.5,9.9,1,0,9.9,9.9,9.9,9.9
+4180248660,L,Reguler,SMAS PASUNDAN 1 BANDUNG,Kota Bandung,Jawa Barat,MANAJEMEN,Tidak Memilih,219,88.98,Tidak Lulus,Tidak Lulus,11.1,11.1,1,0,11.1,11.1,11.1,11.1
+4180249197,L,Bidik Misi,SMAS AL KHOLILIYAH,Kab Sukabumi,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,50,85.48,Tidak Lulus,Tidak Lulus,10.6,10.7,1,0,10.7,10.7,10.7,10.7
+4180250492,P,Bidik Misi,SMAN 1 CIHAURBEUTI,Kab Ciamis,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,170,82.97,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180250493,L,Bidik Misi,SMKS PLUS AL HASANAH,Kab Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,42,81.55,Tidak Lulus,Tidak Lulus,10.5,10.2,1.1,0,10.2,10.2,10.2,10.2
+4180250684,P,Bidik Misi,SMAN 1 CIHAURBEUTI,Kab Ciamis,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,170,81.87,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180169647,P,Reguler,SMAS PLUS PESANTREN AMANAH MUHAMMDIYAH,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA INGGRIS,Tidak Memilih,33,84.57,PENDIDIKAN BAHASA INGGRIS,pil_1,10.6,10.6,1,0,10.6,10.6,10.6,10.6
+4180251289,L,Bidik Misi,SMAS BAITUL HIKMAH TAROGONG KALER,Kab Garut,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,21,81.57,Tidak Lulus,Tidak Lulus,10.3,10.2,1.2,0,10.2,10.2,10.2,10.2
+4180252108,P,Reguler,SMA AL MUTTAQIN,Kota Tasikmalaya,Jawa Barat,AKUNTANSI,Tidak Memilih,107,86.14,AKUNTANSI,pil_1,10.8,10.8,1,0,10.8,10.8,10.8,10.8
+4180252883,P,Reguler,SMAN 3 PURWAKARTA,Kab Purwakarta,Jawa Barat,AKUNTANSI,Tidak Memilih,189,81.58,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180253459,P,Reguler,MAN 1 BOGOR,Kota Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,155,80.93,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180254915,L,Bidik Misi,SMAS TULUS BHAKTI,Kota Bekasi,Jawa Barat,PENDIDIKAN GEOGRAFI,Tidak Memilih,87,88.42,Tidak Lulus,Tidak Lulus,5.7,5.5,1,0,5.5,5.5,5.5,5.5
+4180255813,P,Reguler,SMKN MANONJAYA,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,74,81.07,Tidak Lulus,Tidak Lulus,5.5,5.1,1,0,5.1,5.1,5.1,5.1
+4180256740,P,Bidik Misi,SMA NEGERI 2 KROYA,Kab Cilacap,Jawa Tengah,PENDIDIKAN MATEMATIKA,Tidak Memilih,50,83.61,Tidak Lulus,Tidak Lulus,5.3,5.2,1,0,5.2,5.2,5.2,5.2
+4180258064,P,Reguler,SMAN 17 BANDUNG,Kota Bandung,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,248,79.97,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180258858,P,Bidik Misi,SMAN 1 PEBAYURAN,Kab Bekasi,Jawa Barat,AKUNTANSI,Tidak Memilih,152,82.19,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180259833,L,Bidik Misi,SMAN 1 LOHBENER,Kab Indramayu,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,79,80.78,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180260072,P,Reguler,SMAN 1 PEBAYURAN,Kab Bekasi,Jawa Barat,ILMU POLITIK,Tidak Memilih,152,81.02,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180261975,P,Reguler,SMAN 10 GARUT,Kab Garut,Jawa Barat,GIZI,Tidak Memilih,215,78.88,Tidak Lulus,Tidak Lulus,10.1,9.9,1,0,9.9,9.9,9.9,9.9
+4180262873,L,Reguler,SMKN 2 CIAMIS,Kab Ciamis,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,68,82.14,Tidak Lulus,Tidak Lulus,10.2,10.3,1,0,10.3,10.3,10.3,10.3
+4180263037,L,Bidik Misi,SMAN 1 DAYEUHKOLOT,Kab Bandung,Jawa Barat,MANAJEMEN,Tidak Memilih,174,80.7,Tidak Lulus,Tidak Lulus,10.1,10.1,1.1,0,10.1,10.1,10.1,10.1
+4180263290,L,Bidik Misi,SMAN 1 KABANDUNGAN,Kab Sukabumi,Jawa Barat,ILMU POLITIK,Tidak Memilih,73,88.48,Tidak Lulus,Tidak Lulus,11.2,11.1,1,0,11.1,11.1,11.1,11.1
+4180263300,L,Reguler,SMKN 2 CIAMIS,Kab Ciamis,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,68,82.69,Tidak Lulus,Tidak Lulus,11.2,10.3,1,0,10.3,10.3,10.3,10.3
+4180265493,P,Reguler,SMAN 3 BANJAR,Kota Banjar,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,148,80.74,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180265535,P,Reguler,SMAN TANJUNGKERTA,Kab Sumedang,Jawa Barat,AGRIBISNIS ,Tidak Memilih,65,84.56,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180266379,P,Bidik Misi,SMAN 9 TANGERANG,Kota Tangerang,Banten,GIZI,Tidak Memilih,205,77.45,Tidak Lulus,Tidak Lulus,9.6,9.7,1,0,9.7,9.7,9.7,9.7
+4180267031,P,Bidik Misi,SMAN 4 PANDEGLANG,Kab Pandeglang,Banten,ILMU POLITIK,Tidak Memilih,171,80.4,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180267422,P,Reguler,SMAN 12 BEKASI,Kota Bekasi,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,203,84.48,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180268590,P,Reguler,SMAN 12 BEKASI,Kota Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,203,82.87,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180268696,P,Reguler,SMKN 1 JAKARTA,Kota Jakarta Pusat,DKI Jakarta,TEKNIK SIPIL ,Tidak Memilih,52,79.01,Tidak Lulus,Tidak Lulus,10.5,9.9,1,0,9.9,9.9,9.9,9.9
+4180268856,P,Bidik Misi,SMAN 25 GARUT,Kab Garut,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,82,80.59,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180269898,P,Reguler,SMAS TERPADU RIYADLUL ULUM,Kota Tasikmalaya,Jawa Barat,AKUNTANSI,Tidak Memilih,97,84.47,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180273167,P,Reguler,SMAN 1 CIAWI BOGOR,Kab Bogor,Jawa Barat,MANAJEMEN,Tidak Memilih,142,80.94,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180273675,P,Bidik Misi,MAN DARUSSALAM,Kab Ciamis,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,84,86.87,Tidak Lulus,Tidak Lulus,11,10.9,1.1,0,10.9,10.9,10.9,10.9
+4180273691,L,Bidik Misi,SMAN 1 CIKIDANG,Kab Sukabumi,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,118,83.47,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180275292,P,Bidik Misi,SMAN 1 DRAMAGA,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,189,82.09,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180275761,P,Reguler,SMAN 9 TANGERANG,Kota Tangerang,Banten,PENDIDIKAN MATEMATIKA,Tidak Memilih,205,76.05,Tidak Lulus,Tidak Lulus,9.6,9.5,1,0,9.5,9.5,9.5,9.5
+4180276113,P,Reguler,SMAN 9 TANGERANG,Kota Tangerang,Banten,PENDIDIKAN BIOLOGI,Tidak Memilih,205,77.99,Tidak Lulus,Tidak Lulus,9.7,9.7,1,0,9.7,9.7,9.7,9.7
+4180279449,P,Reguler,SMAN 1 SETU,Kab Bekasi,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,189,83.44,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180279625,L,Reguler,SMAN 15 GARUT,Kab Garut,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,217,83.04,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180282218,P,Reguler,SMAN 3 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,120,83.86,Tidak Lulus,Tidak Lulus,10.6,10.5,1.1,0,10.5,10.5,10.5,10.5
+4180282324,P,Reguler,SMAN 83 JAKARTA,Kota Jakarta Utara,DKI Jakarta,PENDIDIKAN BIOLOGI,Tidak Memilih,71,81.18,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180284620,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,259,83.43,PENDIDIKAN SEJARAH,pil_1,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180052850,P,Bidik Misi,SMAN 4 GARUT,Kab Garut,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,130,86.45,PENDIDIKAN BIOLOGI,pil_1,11,10.8,1,0,10.8,10.8,10.8,10.8
+4180288620,L,Bidik Misi,SMAN 9 GARUT,Kab Garut,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,149,88.41,Tidak Lulus,Tidak Lulus,11.1,11.1,1,0,11.1,11.1,11.1,11.1
+4180292841,L,Bidik Misi,SMAN 9 GARUT,Kab Garut,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,149,84.21,Tidak Lulus,Tidak Lulus,10.5,10.5,1.1,0,10.5,10.5,10.5,10.5
+4180293033,P,Reguler,SMKN BANTARKALONG,Kab Tasikmalaya,Jawa Barat,AKUNTANSI,Tidak Memilih,153,82.74,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180293106,P,Bidik Misi,SMAN 1 CIAWI,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,236,87.61,Tidak Lulus,Tidak Lulus,11.1,11,1,0,11,11,11,11
+4180293601,P,Bidik Misi,SMAN 8 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,ILMU POLITIK,Tidak Memilih,187,82.27,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180294478,P,Reguler,SMAS YADIKA 11,Kota Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,157,82.65,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180296052,P,Reguler,SMAN 13 BEKASI,Kota Bekasi,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,158,80.8,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180301245,P,Reguler,SMAN 1 DAYEUHKOLOT,Kab Bandung,Jawa Barat,GIZI,Tidak Memilih,264,80.64,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180301386,P,Reguler,SMAN 9 TANGERANG,Kota Tangerang,Banten,KESEHATAN MASYARAKAT,Tidak Memilih,205,78.98,Tidak Lulus,Tidak Lulus,9.8,9.9,1,0,9.9,9.9,9.9,9.9
+4180302041,L,Reguler,SMKN 2 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,137,81.22,Tidak Lulus,Tidak Lulus,10.5,10.2,1,0,10.2,10.2,10.2,10.2
+4180302860,P,Reguler,SMAN 12 BEKASI,Kota Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,161,81.33,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180304384,P,Bidik Misi,SMAN 25 GARUT,Kab Garut,Jawa Barat,AGRIBISNIS ,Tidak Memilih,82,81.76,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180304809,P,Reguler,SMAN 1 DAYEUHKOLOT,Kab Bandung,Jawa Barat,GIZI,Tidak Memilih,264,79.57,Tidak Lulus,Tidak Lulus,10.1,9.9,1,0,9.9,9.9,9.9,9.9
+4180305078,L,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,259,81.72,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180305505,L,Reguler,SMAN 12 KOTA TANGERANG SELATAN,Kota Tangerang Selatan,Banten,TEKNIK INFORMATIKA,Tidak Memilih,150,81.71,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180305590,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,259,82.19,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180306895,P,Bidik Misi,SMAN 2 BANJARSARI,Kab Ciamis,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,76,83.3,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180058182,P,Reguler,MAS YP CILENGA,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,26,81.23,PENDIDIKAN BIOLOGI,pil_1,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180307173,P,Reguler,MAN 2 CIAMIS,Kab Ciamis,Jawa Barat,PENDIDIKAN GEOGRAFI,Tidak Memilih,136,79.88,PENDIDIKAN GEOGRAFI,pil_1,10.1,10,1,0,10,10,10,10
+4180307485,L,Bidik Misi,SMAN 5 GARUT,Kab Garut,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,240,89.22,PENDIDIKAN SEJARAH,pil_1,11.2,11.2,1,0,11.2,11.2,11.2,11.2
+4180310855,P,Bidik Misi,SMAN 1 CIAMIS,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,124,86.09,Tidak Lulus,Tidak Lulus,10.9,10.8,1,0,10.8,10.8,10.8,10.8
+4180311836,P,Reguler,SMAN 1 ANJATAN,Kab Indramayu,Jawa Barat,MANAJEMEN,Tidak Memilih,151,83.08,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180313810,P,Bidik Misi,SMAN 10 GARUT,Kab Garut,Jawa Barat,AGRIBISNIS ,Tidak Memilih,215,82.4,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180314706,P,Bidik Misi,SMAN 1 JONGGOL,Kab Bogor,Jawa Barat,PENDIDIKAN GEOGRAFI,Tidak Memilih,141,80.8,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180314930,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,259,84.64,PENDIDIKAN MATEMATIKA,pil_1,10.8,10.6,1,0,10.6,10.6,10.6,10.6
+4180495223,P,Reguler,SMAN 1 LAKBOK,Kab Ciamis,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,188,82.99,PENDIDIKAN BIOLOGI,pil_1,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180317910,P,Bidik Misi,MAN 1 BOGOR,Kota Bogor,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,191,84.13,Tidak Lulus,Tidak Lulus,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180317964,P,Bidik Misi,SMAS KHZ MUSTOFA SUKAMANAH,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,76,85.43,Tidak Lulus,Tidak Lulus,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180318208,P,Bidik Misi,SMAN 1 ANJATAN,Kab Indramayu,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,240,86.69,Tidak Lulus,Tidak Lulus,10.9,10.8,1,0,10.8,10.8,10.8,10.8
+4180318422,P,Bidik Misi,SMAN 1 SLIYEG,Kab Indramayu,Jawa Barat,MANAJEMEN,Tidak Memilih,150,84.02,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180318628,P,Bidik Misi,SMAN 1 BATUJAJAR,Kab Bandung Barat,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,190,78.04,Tidak Lulus,Tidak Lulus,9.9,9.8,1,0,9.8,9.8,9.8,9.8
+4180319024,P,Bidik Misi,SMKS KRIJA BHAKTI UTAMA,Kab Garut,Jawa Barat,MANAJEMEN,Tidak Memilih,115,83.27,Tidak Lulus,Tidak Lulus,9.9,10.4,1.1,0,10.4,10.4,10.4,10.4
+4180319182,P,Bidik Misi,SMKN PANCATENGAH,Kab Tasikmalaya,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,57,81.16,Tidak Lulus,Tidak Lulus,9.9,10.1,1,0,10.1,10.1,10.1,10.1
+4180319588,P,Bidik Misi,SMAN 1 LURAGUNG,Kab Kuningan,Jawa Barat,AGRIBISNIS ,Tidak Memilih,152,82.54,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180321116,P,Reguler,SMAN 7 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,129,80.3,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180084584,L,Reguler,SMAN 1 CIBINGBIN,Kab Kuningan,Jawa Barat,PENDIDIKAN FISIKA,Tidak Memilih,162,84.89,PENDIDIKAN FISIKA,pil_1,10.6,10.6,1,0,10.6,10.6,10.6,10.6
+4180323204,P,Reguler,SMAN 1 GARAWANGI,Kab Kuningan,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,162,81.68,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180323646,P,Bidik Misi,MAN CIPASUNG,Kab Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,204,82.38,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180324527,P,Reguler,SMAN SITURAJA,Kab Sumedang,Jawa Barat,MANAJEMEN,Tidak Memilih,174,82.37,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180324591,P,Reguler,SMAN 18 BEKASI,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,76,81.69,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180325057,P,Reguler,SMAN 1 SUKATANI,Kab Purwakarta,Jawa Barat,GIZI,Tidak Memilih,157,80.82,Tidak Lulus,Tidak Lulus,10,10.1,1,0,10.1,10.1,10.1,10.1
+4180325092,P,Reguler,SMAN SITURAJA,Kab Sumedang,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,174,84.03,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180325390,P,Reguler,SMA NEGERI 10 DEPOK,Kota Depok,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,110,80.95,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180325949,P,Reguler,SMAN 6 GARUT,Kab Garut,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,307,82.31,Tidak Lulus,Tidak Lulus,10.6,10.3,1,0,10.3,10.3,10.3,10.3
+4180326328,L,Reguler,SMKS TELEKOMUNIKASI TELESANDI,Kab Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,126,80.62,Tidak Lulus,Tidak Lulus,10.6,10.1,1,0,10.1,10.1,10.1,10.1
+4180327510,L,Bidik Misi,SMKN 1 SOREANG,Kab Bandung,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,36,76.74,Tidak Lulus,Tidak Lulus,10.5,9.6,1,0,9.6,9.6,9.6,9.6
+4180328397,L,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,184,83.12,EKONOMI SYARIAH,pil_1,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180329191,L,Bidik Misi,SMAN 19 GARUT,Kab Garut,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,195,80.98,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180330086,L,Reguler,SMAN 1 KARANGNUNGGAL,Kab Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,82,87.19,MANAJEMEN,pil_1,11.1,10.9,1,0,10.9,10.9,10.9,10.9
+4180568369,P,Reguler,SMAS SERBA BAKTI,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN FISIKA,Tidak Memilih,53,85.35,PENDIDIKAN FISIKA,pil_1,10.8,10.7,1.1,0,10.7,10.7,10.7,10.7
+4180330662,P,Bidik Misi,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,184,81.76,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180330917,P,Reguler,SMA NEGERI 10 DEPOK,Kota Depok,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,113,81.36,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180331348,P,Bidik Misi,SMAN 19 GARUT,Kab Garut,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,195,83.87,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180331687,P,Reguler,SMA AL MUTTAQIN,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,107,87.22,PENDIDIKAN MATEMATIKA,pil_1,11,10.9,1,0,10.9,10.9,10.9,10.9
+4180331697,L,Bidik Misi,SMAS BUDHI WARMAN 1,Kota Jakarta Timur,DKI Jakarta,TEKNIK INFORMATIKA,Tidak Memilih,114,83.3,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180333207,P,Reguler,SMAN 83 JAKARTA,Kota Jakarta Utara,DKI Jakarta,KESEHATAN MASYARAKAT,Tidak Memilih,71,80.35,Tidak Lulus,Tidak Lulus,10.2,10,1,0,10,10,10,10
+4180333247,P,Bidik Misi,SMKN 1 CIAMIS,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,114,87.3,Tidak Lulus,Tidak Lulus,10.2,10.9,1,0,10.9,10.9,10.9,10.9
+4180333507,L,Reguler,SMAN 2 SUBANG,Kab Subang,Jawa Barat,ILMU POLITIK,Tidak Memilih,197,78.22,Tidak Lulus,Tidak Lulus,9.8,9.8,1,0,9.8,9.8,9.8,9.8
+4180023450,L,Bidik Misi,SMKN 1 GARUT,Kab Garut,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",Tidak Memilih,69,84.93,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",pil_1,10.4,10.6,1,0,10.6,10.6,10.6,10.6
+4180334200,L,Bidik Misi,SMAN 1 CARINGIN,Kab Bogor,Jawa Barat,MANAJEMEN,Tidak Memilih,112,81.22,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180334245,L,Reguler,SMAS KORNITA,Kab Bogor,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,59,78.56,Tidak Lulus,Tidak Lulus,9.9,9.8,1,0,9.8,9.8,9.8,9.8
+4180334254,L,Reguler,SMAS KORNITA,Kab Bogor,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,59,78.9,Tidak Lulus,Tidak Lulus,9.9,9.9,1,0,9.9,9.9,9.9,9.9
+4180334454,P,Reguler,SMAS KORNITA,Kab Bogor,Jawa Barat,PENDIDIKAN EKONOMI,Tidak Memilih,59,79.17,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180334734,P,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,177,84.84,EKONOMI PEMBANGUNAN,pil_1,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180334892,L,Bidik Misi,SMAN 16 GARUT,Kab Garut,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI ",Tidak Memilih,190,81.18,Tidak Lulus,Tidak Lulus,10.2,10.1,1.1,0,10.1,10.1,10.1,10.1
+4180335681,P,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN EKONOMI,Tidak Memilih,177,85.63,PENDIDIKAN EKONOMI,pil_1,10.9,10.7,1,0,10.7,10.7,10.7,10.7
+4180024194,P,Reguler,SMAN 1 MANONJAYA,Kab Tasikmalaya,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",Tidak Memilih,209,84.17,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",pil_1,10.7,10.5,1.1,0,10.5,10.5,10.5,10.5
+4180336544,P,Bidik Misi,MAN 1 BOGOR,Kota Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,191,83.07,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180336744,P,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,AKUNTANSI,Tidak Memilih,177,85.82,AKUNTANSI,pil_1,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180336916,P,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,177,83.31,EKONOMI PEMBANGUNAN,pil_1,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180337502,P,Bidik Misi,SMAN 1 CIKARANG PUSAT,Kab Bekasi,Jawa Barat,ILMU POLITIK,Tidak Memilih,175,82.83,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180165691,L,Reguler,MAN 2 KOTA BEKASI,Kota Bekasi,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",Tidak Memilih,134,78.06,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",pil_1,9.9,9.8,1.1,0,9.8,9.8,9.8,9.8
+4180338402,P,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,177,84.45,EKONOMI PEMBANGUNAN,pil_1,10.6,10.6,1,0,10.6,10.6,10.6,10.6
+4180244216,L,Reguler,SMAN 2 BABELAN,Kab Bekasi,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",Tidak Memilih,122,80.7,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",pil_1,10.2,10.1,1.1,0,10.1,10.1,10.1,10.1
+4180263284,L,Reguler,SMAN 2 SUKABUMI,Kota Sukabumi,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",Tidak Memilih,201,80.21,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI",pil_1,10.2,10,1,0,10,10,10,10
+4180340501,L,Reguler,SMAS KORNITA,Kab Bogor,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,64,81.26,Tidak Lulus,Tidak Lulus,10.2,10.2,1.1,0,10.2,10.2,10.2,10.2
+4180341813,P,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,177,82.21,EKONOMI SYARIAH,pil_1,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180002054,P,Reguler,SMAN 4 CIMAHI,Kota Cimahi,Jawa Barat,PENDIDIKAN LUAR SEKOLAH,Tidak Memilih,180,79.91,PENDIDIKAN LUAR SEKOLAH,pil_1,10.1,10,1,0,10,10,10,10
+4180343233,L,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,ILMU POLITIK,Tidak Memilih,177,83.55,ILMU POLITIK,pil_1,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180344679,P,Reguler,SMAN 4 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,177,84.52,Tidak Lulus,Tidak Lulus,10.5,10.6,1,0,10.6,10.6,10.6,10.6
+4180347331,P,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,109,81.87,EKONOMI PEMBANGUNAN,pil_1,10.5,10.2,1,0,10.2,10.2,10.2,10.2
+4180348301,L,Bidik Misi,SMAN 1 CARINGIN,Kab Bogor,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,112,80.83,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180351697,P,Reguler,SMAN 6 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,145,81.48,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180351706,P,Bidik Misi,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,190,82.24,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180357619,P,Reguler,SMAN 1 TARUMAJAYA,Kab Bekasi,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,177,81.47,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180358089,L,Bidik Misi,SMAN 1 CIGOMBONG,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,221,83.38,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180358960,P,Reguler,SMAN 1 CIBITUNG,Kab Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,269,82.94,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180359165,P,Reguler,SMAN 2 CIAMIS,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,102,82.87,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180359569,P,Bidik Misi,SMAN 15 JAKARTA,Kota Jakarta Utara,DKI Jakarta,TEKNIK SIPIL ,Tidak Memilih,108,78.57,Tidak Lulus,Tidak Lulus,9.9,9.8,1,0,9.8,9.8,9.8,9.8
+4180361459,P,Reguler,MAN DARUSSALAM,Kab Ciamis,Jawa Barat,ILMU POLITIK,Tidak Memilih,84,86.32,ILMU POLITIK,pil_1,11,10.8,1,0,10.8,10.8,10.8,10.8
+4180362279,L,Reguler,SMAN 6 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,ILMU POLITIK,Tidak Memilih,145,81.11,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180362522,P,Reguler,SMAS PASUNDAN 1 BANDUNG,Kota Bandung,Jawa Barat,ILMU POLITIK,Tidak Memilih,219,89.56,ILMU POLITIK,pil_1,11.1,11.2,1,0,11.2,11.2,11.2,11.2
+4180363056,P,Reguler,MAN 2 GARUT,Kab Garut,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,115,80.82,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180363851,P,Reguler,SMKS KESEHATAN FAHD ISLAMIC SCHOOL,Kab Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,128,83.58,Tidak Lulus,Tidak Lulus,11,10.4,1,0,10.4,10.4,10.4,10.4
+4180364844,P,Reguler,SMAS JAYA SUTI ABADI,Kab Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,89,88.36,Tidak Lulus,Tidak Lulus,11.1,11,1.1,0,11,11,11,11
+4180366328,P,Bidik Misi,SMAN 84 JAKARTA,Kota Jakarta Barat,DKI Jakarta,MANAJEMEN,Tidak Memilih,108,82.82,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180368627,L,Reguler,SMAN 1 CILILIN,Kab Bandung Barat,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,246,77.51,Tidak Lulus,Tidak Lulus,9.9,9.7,1,0,9.7,9.7,9.7,9.7
+4180371414,P,Bidik Misi,SMKS KESEHATAN BHAKTI KENCANA,Kab Garut,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,87,88.68,Tidak Lulus,Tidak Lulus,10.6,11.1,1,0,11.1,11.1,11.1,11.1
+4180375102,P,Reguler,SMAN 5 KOTA SERANG,Kota Serang,Banten,KESEHATAN MASYARAKAT,Tidak Memilih,209,79.83,Tidak Lulus,Tidak Lulus,10,10,1,0,10,10,10,10
+4180079110,P,Bidik Misi,SMAS PLUS INFORMATIKA,Kab Ciamis,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,75,88.76,PENDIDIKAN MATEMATIKA,pil_1,11.3,11.1,1,0,11.1,11.1,11.1,11.1
+4180376627,P,Bidik Misi,MAN 1 BOGOR,Kota Bogor,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,191,84.36,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180377331,P,Bidik Misi,SMAN 16 BANDAR LAMPUNG,Kota Bandar Lampung,Lampung,KESEHATAN MASYARAKAT,Tidak Memilih,196,83.03,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180377529,P,Reguler,SMAN 1 JONGGOL,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,214,80.8,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180380028,P,Reguler,SMKS BINA HUSADA MANDIRI,Kota Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,103,82.03,Tidak Lulus,Tidak Lulus,10.7,10.3,1,0,10.3,10.3,10.3,10.3
+4180382265,P,Reguler,SMAS MUTIARA BARU,Kota Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,60,82.11,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180382855,P,Bidik Misi,MAN CIREBON 1,Kota Cirebon,Jawa Barat,MANAJEMEN,Tidak Memilih,213,83,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180382876,P,Reguler,MAN CIAWIGEBANG,Kab Kuningan,Jawa Barat,MANAJEMEN,Tidak Memilih,113,80.38,Tidak Lulus,Tidak Lulus,10.2,10,1,0,10,10,10,10
+4180383534,L,Reguler,MAN CIPASUNG,Kab Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,160,83.55,Tidak Lulus,Tidak Lulus,10.7,10.4,1,0,10.4,10.4,10.4,10.4
+4180383956,L,Reguler,SMKS KESEHATAN KH ILYAS RUHIYAT,Kab Tasikmalaya,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,34,85.78,KESEHATAN MASYARAKAT,pil_1,10.6,10.7,1,0,10.7,10.7,10.7,10.7
+4180386405,L,Bidik Misi,MAS YPIA CIKERIS,Kab Purwakarta,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,29,83.42,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180386804,L,Reguler,SMAN 1 CIWARINGIN,Kab Cirebon,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI ",Tidak Memilih,72,83.75,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180387549,P,Reguler,SMAS ISLAM CIPASUNG,Kab Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,96,82.83,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180389345,P,Reguler,SMAS TAMAN HARAPAN 2,Kota Bekasi,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,72,85.94,PENDIDIKAN BIOLOGI,pil_1,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180392032,P,Reguler,SMAN 1 BABAKAN MADANG,Kab Bogor,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,110,82.97,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180392468,P,Bidik Misi,SMAS TAMAN HARAPAN 2,Kota Bekasi,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,37,85.42,Tidak Lulus,Tidak Lulus,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180394738,P,Reguler,SMAN 6 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,145,81.15,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180394888,L,Reguler,SMAN 11 BEKASI,Kota Bekasi,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,240,83.04,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180395477,P,Reguler,SMAN 13 BEKASI,Kota Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,157,80.35,Tidak Lulus,Tidak Lulus,10.2,10,1.2,0,10,10,10,10
+4180395613,P,Reguler,SMAN 6 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,75,82.28,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180397590,P,Reguler,SMAN 13 PADANG,Kota Padang,Sumatera Barat,KESEHATAN MASYARAKAT,Tidak Memilih,159,87.96,Tidak Lulus,Tidak Lulus,11.1,11,1,0,11,11,11,11
+4180400200,P,Bidik Misi,SMAN 16 GARUT,Kab Garut,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,190,83.38,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180400283,L,Bidik Misi,SMAN 1 CISAYONG,Kab Tasikmalaya,Jawa Barat,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI ",Tidak Memilih,40,82.3,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180402286,L,Reguler,SMKS TELEKOMUNIKASI TELESANDI,Kab Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,126,81.6,Tidak Lulus,Tidak Lulus,10.5,10.2,1,0,10.2,10.2,10.2,10.2
+4180402436,P,Reguler,SMKN 9 TANGERANG,Kota Tangerang,Banten,KESEHATAN MASYARAKAT,Tidak Memilih,138,83.89,Tidak Lulus,Tidak Lulus,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180402513,L,Reguler,SMA NEGERI 10 DEPOK,Kota Depok,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,113,79.37,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180402750,P,Bidik Misi,SMA NEGERI 1 PACET,Kab Cianjur,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,73,83.25,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180403964,P,Reguler,SMA NEGERI 1 SUKARESMI,Kab Cianjur,Jawa Barat,GIZI,Tidak Memilih,23,83.64,Tidak Lulus,Tidak Lulus,10.4,10.5,1,0,10.5,10.5,10.5,10.5
+4180405842,P,Reguler,SMAS FUTURE GATE,Kota Bekasi,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,20,84.63,Tidak Lulus,Tidak Lulus,10.6,10.6,1,0,10.6,10.6,10.6,10.6
+4180407092,P,Reguler,SMAN 1 SLIYEG,Kab Indramayu,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,161,83.79,Tidak Lulus,Tidak Lulus,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180409065,P,Reguler,SMAS FUTURE GATE,Kota Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,39,81.1,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180410809,P,Reguler,SMAN 2 CIAMIS,Kab Ciamis,Jawa Barat,PENDIDIKAN GEOGRAFI,Tidak Memilih,102,82.6,PENDIDIKAN GEOGRAFI,pil_1,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180420124,L,Reguler,SMKN 1 JAMBLANG,Kab Cirebon,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,121,86.59,Tidak Lulus,Tidak Lulus,10.3,10.8,1,0,10.8,10.8,10.8,10.8
+4180421302,P,Reguler,SMAN 1 KUNINGAN,Kab Kuningan,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,193,80.48,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180422187,P,Reguler,SMAN 13 BEKASI,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,157,80.36,Tidak Lulus,Tidak Lulus,10.2,10,1,0,10,10,10,10
+4180423666,P,Reguler,MAS PERSIS SINDANGKASIH,Kab Ciamis,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,22,81.1,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180424792,P,Reguler,SMAS AL MADINA,Kab Bogor,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,27,86.13,Tidak Lulus,Tidak Lulus,10.9,10.8,1,0,10.8,10.8,10.8,10.8
+4180425178,L,Reguler,SMAS PGRI CIBINONG,Kab Bogor,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,209,82.3,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180426579,P,Reguler,SMKN 1 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,62,83.4,Tidak Lulus,Tidak Lulus,9.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180427935,P,Reguler,MAS DARUSSALAM,Kab Subang,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,80,83.26,Tidak Lulus,Tidak Lulus,10.7,10.4,1,0,10.4,10.4,10.4,10.4
+4180428102,P,Reguler,SMAN 13 BEKASI,Kota Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,157,79.86,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180428550,P,Reguler,SMKN 1 CIAMIS,Kab Ciamis,Jawa Barat,AKUNTANSI,Tidak Memilih,153,87.9,AKUNTANSI,pil_1,10.8,11,1,0,11,11,11,11
+4180429712,L,Reguler,SMAN 3 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,259,81.75,Tidak Lulus,Tidak Lulus,10.5,10.2,1,0,10.2,10.2,10.2,10.2
+4180431801,P,Bidik Misi,SMAN 11 GARUT,Kab Garut,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,415,80.65,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180435013,L,Reguler,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,190,81.96,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180436871,L,Reguler,SMAS BPK PENABUR,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,50,79.63,Tidak Lulus,Tidak Lulus,10,10,1,0,10,10,10,10
+4180437365,P,Bidik Misi,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,191,81.53,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180439454,P,Bidik Misi,SMAN 3 GARUT,Kab Garut,Jawa Barat,ILMU POLITIK,Tidak Memilih,167,81.24,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180439726,P,Reguler,SMKN 4 TANGERANG,Kota Tangerang,Banten,KESEHATAN MASYARAKAT,Tidak Memilih,40,77.17,Tidak Lulus,Tidak Lulus,10.3,9.6,1.1,0,9.6,9.6,9.6,9.6
+4180442694,P,Reguler,SMAN 4 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,200,79.93,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180443918,P,Reguler,SMAN 1 CIGOMBONG,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,221,81.73,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180443958,P,Bidik Misi,SMAN 1 JONGGOL,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,214,81.29,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180444448,P,Bidik Misi,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,190,82.22,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180317598,L,Reguler,SMAS PGRI 1 BEKASI,Kota Bekasi,Jawa Barat,TEKNIK ELEKTRO,Tidak Memilih,125,85.59,TEKNIK ELEKTRO,pil_1,10.7,10.7,1,0,10.7,10.7,10.7,10.7
+4180447274,L,Reguler,SMAN 1 CIGOMBONG,Kab Bogor,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,221,82.24,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180447480,P,Bidik Misi,SMAN 12 BEKASI,Kota Bekasi,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,203,83.39,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180448752,P,Reguler,SMAN 1 CIBITUNG,Kab Bekasi,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,269,83.04,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180450166,L,Reguler,SMAN 1 CIGOMBONG,Kab Bogor,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,221,82.76,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180453831,P,Reguler,SMAN 1 CIKARANG PUSAT,Kab Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,209,85.13,Tidak Lulus,Tidak Lulus,10.8,10.6,1,0,10.6,10.6,10.6,10.6
+4180454244,L,Reguler,SMKN 2 KOTA BEKASI,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,103,82.58,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180454490,L,Reguler,SMKN 8 TANGERANG,Kota Tangerang,Banten,TEKNIK ELEKTRO ,Tidak Memilih,123,75.55,Tidak Lulus,Tidak Lulus,10.8,9.4,1,0,9.4,9.4,9.4,9.4
+4180456449,P,Reguler,SMAN 1 CIBARUSAH,Kab Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,313,82.24,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180457265,P,Reguler,SMAN 9 JAKARTA,Kota Jakarta Timur,DKI Jakarta,KESEHATAN MASYARAKAT,Tidak Memilih,144,82.79,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180457497,L,Reguler,SMAN 4 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,296,81.16,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180458091,L,Reguler,SMAN 7 BEKASI,Kota Bekasi,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,235,81.95,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180459559,L,Reguler,SMAN 1 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,335,84.47,Tidak Lulus,Tidak Lulus,10.8,10.6,1,0,10.6,10.6,10.6,10.6
+4180459984,L,Bidik Misi,MAN TALAGA,Kab Majalengka,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,48,83.63,Tidak Lulus,Tidak Lulus,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180463638,P,Reguler,MAN 2 CIAMIS,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,147,79.72,Tidak Lulus,Tidak Lulus,10.2,10,1,0,10,10,10,10
+4180502274,L,Reguler,SMKN 2 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK ELEKTRO,Tidak Memilih,102,80.73,TEKNIK ELEKTRO,pil_1,10.5,10.1,1,0,10.1,10.1,10.1,10.1
+4180466007,L,Reguler,SMAN 3 SUBANG,Kab Subang,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,264,81.41,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180468073,P,Reguler,SMAN 1 CIGOMBONG,Kab Bogor,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,103,82.74,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180468572,P,Reguler,SMAN 1 CILILIN,Kab Bandung Barat,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,246,79.38,Tidak Lulus,Tidak Lulus,10.1,9.9,1,0,9.9,9.9,9.9,9.9
+4180469716,P,Bidik Misi,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,PENDIDIKAN GEOGRAFI,Tidak Memilih,190,83.85,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180470209,L,Reguler,MAN 1 KOTA BEKASI,Kota Bekasi,Jawa Barat,AGRIBISNIS ,Tidak Memilih,263,82.42,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180470387,L,Reguler,MAN 1 GROGOL JAKARTA,Kota Jakarta Barat,DKI Jakarta,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,63,78.81,Tidak Lulus,Tidak Lulus,9.9,9.9,1,0,9.9,9.9,9.9,9.9
+4180470656,P,Reguler,SMAN 2 CIAMIS,Kab Ciamis,Jawa Barat,AKUNTANSI,Tidak Memilih,252,82.7,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180474821,P,Reguler,SMAS WIDYA KUSUMA,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,30,79.41,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180475542,P,Reguler,SMAN 1 KARANG WARENG,Kab Cirebon,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,171,81.43,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180476608,P,Bidik Misi,SMAN 1 SUKATANI,Kab Purwakarta,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,157,83.22,Tidak Lulus,Tidak Lulus,10.3,10.4,1,0,10.4,10.4,10.4,10.4
+4180477653,P,Bidik Misi,SMKN 1 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,95,82.44,Tidak Lulus,Tidak Lulus,10.6,10.3,1,0,10.3,10.3,10.3,10.3
+4180478068,L,Reguler,SMA ISLAM SULTAN AGUNG 1,Kota Semarang,Jawa Tengah,KESEHATAN MASYARAKAT,Tidak Memilih,179,86.95,Tidak Lulus,Tidak Lulus,10.9,10.9,1,0,10.9,10.9,10.9,10.9
+4180479174,P,Reguler,SMAN 1 DAYEUHKOLOT,Kab Bandung,Jawa Barat,PENDIDIKAN LUAR SEKOLAH,Tidak Memilih,264,81.23,PENDIDIKAN LUAR SEKOLAH,pil_1,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180479674,P,Reguler,SMKS DAYA UTAMA KOTA BEKASI,Kota Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,64,88.7,Tidak Lulus,Tidak Lulus,10.8,11.1,1,0,11.1,11.1,11.1,11.1
+4180480319,P,Reguler,SMKS PGRI TEGAL,Kota Tegal,Jawa Tengah,MANAJEMEN,Tidak Memilih,65,80.02,Tidak Lulus,Tidak Lulus,10,10,1,0,10,10,10,10
+4180480929,L,Bidik Misi,SMKN 1 CIAMIS,Kab Ciamis,Jawa Barat,AKUNTANSI,Tidak Memilih,153,89.79,AKUNTANSI,pil_1,10.5,11.2,1,0,11.2,11.2,11.2,11.2
+4180481873,P,Reguler,SMAN 1 JONGGOL,Kab Bogor,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,214,79.32,Tidak Lulus,Tidak Lulus,9.9,9.9,1,0,9.9,9.9,9.9,9.9
+4180482982,P,Reguler,SMAN 3 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,AKUNTANSI,Tidak Memilih,120,82.89,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180035666,L,Bidik Misi,SMKN 4 GARUT,Kab Garut,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,128,92.57,TEKNIK INFORMATIKA,pil_1,10.3,11.6,1,0,11.6,11.6,11.6,11.6
+4180487118,L,Reguler,SMAN 1 GARAWANGI,Kab Kuningan,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,143,82.74,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180487911,P,Reguler,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,AGRIBISNIS ,Tidak Memilih,191,81.66,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180488769,L,Bidik Misi,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,190,82.99,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180489030,P,Reguler,SMAN 10 BANDUNG,Kota Bandung,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,313,80.7,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180493699,P,Reguler,SMAN 1 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,335,85.09,PENDIDIKAN BIOLOGI,pil_1,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180494279,P,Reguler,SMAN 3 KUNINGAN,Kab Kuningan,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,219,80.68,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180494574,L,Reguler,SMKN 1 CIAMIS,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,114,83.35,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180494642,P,Reguler,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,MANAJEMEN,Tidak Memilih,190,82.12,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180494988,P,Reguler,SMAN 3 KUNINGAN,Kab Kuningan,Jawa Barat,MANAJEMEN,Tidak Memilih,219,80.63,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180495437,P,Reguler,SMAN 1 LAKBOK,Kab Ciamis,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,188,83.77,PENDIDIKAN BIOLOGI,pil_1,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180070305,L,Reguler,SMKS NURUL WAFA,Kab Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,24,87.58,TEKNIK INFORMATIKA,pil_1,10.7,10.9,1,0,10.9,10.9,10.9,10.9
+4180496104,P,Bidik Misi,MAN DARUSSALAM,Kab Ciamis,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,84,85.51,Tidak Lulus,Tidak Lulus,10.9,10.7,1,0,10.7,10.7,10.7,10.7
+4180496345,P,Reguler,SMAN 1 CINIRU,Kab Kuningan,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,105,82.12,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180496350,L,Reguler,SMKS LPT CIAMIS,Kab Ciamis,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,55,82.13,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180086090,L,Reguler,SMKS PELITA CENDEKIA BANGSA,Kab Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,27,88.48,TEKNIK INFORMATIKA,pil_1,10.3,11.1,1.1,0,11.1,11.1,11.1,11.1
+4180499761,L,Reguler,SMAS AL MADINA,Kab Bogor,Jawa Barat,AKUNTANSI,Tidak Memilih,41,79.13,Tidak Lulus,Tidak Lulus,10.1,9.9,1,0,9.9,9.9,9.9,9.9
+4180501121,P,Reguler,SMAN 1 KAWALI,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,185,84.46,Tidak Lulus,Tidak Lulus,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180503474,L,Reguler,SMKN 2 PURWOKERTO,Kab Banyumas,Jawa Tengah,TEKNIK SIPIL ,Tidak Memilih,66,83.89,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180503902,P,Bidik Misi,SMAN 1 TAMANSARI,Kab Bogor,Jawa Barat,GIZI,Tidak Memilih,198,80.8,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180504316,P,Reguler,SMAN 6 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,145,81.54,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180504439,P,Reguler,SMAS BAITUSSALAM,Kab Bogor,Jawa Barat,GIZI,Tidak Memilih,20,84.33,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180504609,P,Reguler,SMAN 1 SUMEDANG,Kab Sumedang,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,352,83.71,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
+4180504715,P,Reguler,SMAN 1 DAYEUHKOLOT,Kab Bandung,Jawa Barat,MANAJEMEN,Tidak Memilih,174,80.3,Tidak Lulus,Tidak Lulus,10.2,10,1,0,10,10,10,10
+4180504744,P,Bidik Misi,SMKN 2 KUNINGAN,Kab Kuningan,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,103,83.18,Tidak Lulus,Tidak Lulus,10.2,10.4,1,0,10.4,10.4,10.4,10.4
+4180216711,L,Bidik Misi,SMK MANANGGA PRATAMA TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,126,89.41,TEKNIK INFORMATIKA,pil_1,10.4,11.2,1.1,0,11.2,11.2,11.2,11.2
+4180505062,P,Bidik Misi,SMAN 1 CIJERUK,Kab Bogor,Jawa Barat,PENDIDIKAN FISIKA,Tidak Memilih,57,82.65,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180506041,P,Reguler,SMKS BINA PUTERA NUSANTARA TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,AKUNTANSI,Tidak Memilih,106,83.59,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180506565,P,Bidik Misi,SMAN 4 CIREBON,Kota Cirebon,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,208,80.82,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180507348,P,Reguler,SMKN 2 SUKABUMI,Kota Sukabumi,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,102,87.69,Tidak Lulus,Tidak Lulus,10.3,11,1,0,11,11,11,11
+4180508296,P,Bidik Misi,SMAN 1 CARINGIN,Kab Bogor,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,112,81.44,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180509065,L,Bidik Misi,MAS AL-FALAAHIYAH,Kab Sumedang,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,32,83.17,Tidak Lulus,Tidak Lulus,10.5,10.4,1,0,10.4,10.4,10.4,10.4
+4180509514,P,Bidik Misi,SMKS YPC TASIKMALAYA,Kab Tasikmalaya,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,22,84.98,Tidak Lulus,Tidak Lulus,10.3,10.6,1,0,10.6,10.6,10.6,10.6
+4180510378,P,Reguler,SMA RADEN FATAH CIMANGGU,Kab Cilacap,Jawa Tengah,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,46,80.33,Tidak Lulus,Tidak Lulus,10.3,10,1,0,10,10,10,10
+4180512635,P,Reguler,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,191,81.58,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180514491,P,Reguler,SMAN 1 SINDANGKASIH,Kab Ciamis,Jawa Barat,MANAJEMEN,Tidak Memilih,108,82.67,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180514745,L,Bidik Misi,MAN 3 KUNINGAN,Kab Kuningan,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,21,81.56,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180516135,P,Reguler,SMKN 1 BOJONG GEDE,Kab Bogor,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,102,80.51,Tidak Lulus,Tidak Lulus,10.8,10.1,1,0,10.1,10.1,10.1,10.1
+4180516599,P,Bidik Misi,SMAN 1 LEPAR PONGOK,Kab Bangka Selatan,Kepulauan Bangka Belitung,PENDIDIKAN MATEMATIKA,Tidak Memilih,26,82.56,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180516751,L,Bidik Misi,MAN 3 KUNINGAN,Kab Kuningan,Jawa Barat,AGRIBISNIS ,Tidak Memilih,21,80.2,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180337282,L,Reguler,SMK MANANGGA PRATAMA TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,126,87.23,TEKNIK INFORMATIKA,pil_1,10.3,10.9,1,0,10.9,10.9,10.9,10.9
+4180518583,L,Bidik Misi,SMKN RAJAPOLAH,Kab Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,138,85.39,Tidak Lulus,Tidak Lulus,10.6,10.7,1.1,0,10.7,10.7,10.7,10.7
+4180519937,P,Reguler,SMA NEGERI 7 TAMBUN SELATAN,Kab Bekasi,Jawa Barat,PENDIDIKAN EKONOMI,Tidak Memilih,68,80.83,Tidak Lulus,Tidak Lulus,10.2,10.1,1,0,10.1,10.1,10.1,10.1
+4180520355,P,Bidik Misi,MAN 3 KUNINGAN,Kab Kuningan,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,19,82.04,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180520365,P,Reguler,SMAN 2 KUNINGAN,Kab Kuningan,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,267,82.4,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180520371,P,Reguler,SMAN 1 BANJAR,Kota Banjar,Jawa Barat,PENDIDIKAN BAHASA INGGRIS ,Tidak Memilih,57,83.1,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180522017,P,Reguler,SMA NEGERI 1 SIDAMANIK,Kab Simalungun,Sumatera Utara,EKONOMI PEMBANGUNAN,Tidak Memilih,113,76.64,Tidak Lulus,Tidak Lulus,9.7,9.6,1,0,9.6,9.6,9.6,9.6
+4180522952,L,Reguler,SMAS DWI WARNA,Kab Bogor,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,59,78.42,Tidak Lulus,Tidak Lulus,9.8,9.8,1,0,9.8,9.8,9.8,9.8
+4180523096,L,Reguler,SMKN 1 MAJALENGKA,Kab Majalengka,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,104,82.96,Tidak Lulus,Tidak Lulus,10.9,10.4,1,0,10.4,10.4,10.4,10.4
+4180524848,P,Bidik Misi,SMKN 1 MAJA,Kab Majalengka,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,65,82.11,Tidak Lulus,Tidak Lulus,9.8,10.3,1,0,10.3,10.3,10.3,10.3
+4180525740,P,Bidik Misi,SMKS YPC TASIKMALAYA,Kab Tasikmalaya,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,22,87.19,Tidak Lulus,Tidak Lulus,10.2,10.9,1,0,10.9,10.9,10.9,10.9
+4180526336,L,Reguler,SMAS ISLAM ASSYAFIIYAH 02,Kota Bekasi,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,76,84.91,Tidak Lulus,Tidak Lulus,10.6,10.6,1,0,10.6,10.6,10.6,10.6
+4180526488,P,Bidik Misi,SMAN 1 BANTARUJEG,Kab Majalengka,Jawa Barat,MANAJEMEN,Tidak Memilih,144,82.28,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180526667,P,Bidik Misi,SMKN 2 GARUT,Kab Garut,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,72,82.51,Tidak Lulus,Tidak Lulus,10.3,10.3,1,0,10.3,10.3,10.3,10.3
+4180526841,L,Reguler,SMAN 1 CIGOMBONG,Kab Bogor,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,221,83.57,Tidak Lulus,Tidak Lulus,10.6,10.4,1,0,10.4,10.4,10.4,10.4
+4180527405,L,Bidik Misi,SMAN 1 MANONJAYA,Kab Tasikmalaya,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,132,84.55,Tidak Lulus,Tidak Lulus,10.8,10.6,1,0,10.6,10.6,10.6,10.6
+4180528139,P,Reguler,MAN RANCAH,Kab Ciamis,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,19,83.69,Tidak Lulus,Tidak Lulus,10.4,10.5,1,0,10.5,10.5,10.5,10.5
+4180532124,P,Reguler,SMAN 6 KABUPATEN TANGERANG,Kab Tangerang,Banten,KESEHATAN MASYARAKAT,Tidak Memilih,175,80.93,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180533157,L,Bidik Misi,SMAN 1 CILILIN,Kab Bandung Barat,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,246,81.34,Tidak Lulus,Tidak Lulus,10.4,10.2,1,0,10.2,10.2,10.2,10.2
+4180533508,P,Reguler,SMA NEGERI 10 DEPOK,Kota Depok,Jawa Barat,PENDIDIKAN EKONOMI,Tidak Memilih,113,80.17,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180533871,L,Reguler,SMAN 1 MASOHI,Kab Maluku Tengah,Maluku,TEKNIK INFORMATIKA,Tidak Memilih,106,79.14,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180534928,P,Bidik Misi,MAS ATHORIYYAH CIKATOMAS,Kab Tasikmalaya,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,64,82.16,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180535167,P,Bidik Misi,SMAS YAS SINDANGKERTA,Kab Bandung Barat,Jawa Barat,AGRIBISNIS ,Tidak Memilih,109,83.33,Tidak Lulus,Tidak Lulus,10.3,10.4,1,0,10.4,10.4,10.4,10.4
+4180536375,L,Reguler,SMAN 3 SUBANG,Kab Subang,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,264,78.47,Tidak Lulus,Tidak Lulus,9.9,9.8,1,0,9.8,9.8,9.8,9.8
+4180536976,P,Bidik Misi,SMKS KESEHATAN BHAKTI KENCANA,Kab Garut,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,87,85.34,Tidak Lulus,Tidak Lulus,10.1,10.7,1,0,10.7,10.7,10.7,10.7
+4180537489,P,Reguler,SMAN 1 CIBARUSAH,Kab Bekasi,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,313,81.94,Tidak Lulus,Tidak Lulus,10.3,10.2,1,0,10.2,10.2,10.2,10.2
+4180539431,P,Reguler,SMAS PATRIOT BEKASI,Kota Bekasi,Jawa Barat,AGROTEKNOLOGI ,Tidak Memilih,28,80.54,Tidak Lulus,Tidak Lulus,10.1,10.1,1,0,10.1,10.1,10.1,10.1
+4180539531,L,Reguler,SMAS YADIKA 9,Kota Bekasi,Jawa Barat,AGRIBISNIS ,Tidak Memilih,23,80.09,Tidak Lulus,Tidak Lulus,10,10,1,0,10,10,10,10
+4180540910,P,Reguler,SMAN 7 BEKASI,Kota Bekasi,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,235,82.72,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180545159,P,Reguler,SMKS BINA HUSADA MANDIRI,Kota Bekasi,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,39,80.97,Tidak Lulus,Tidak Lulus,11,10.1,1,0,10.1,10.1,10.1,10.1
+4180545240,P,Reguler,SMAS ISLAM PB SUDIRMAN,Kota Bekasi,Jawa Barat,AGRIBISNIS ,Tidak Memilih,156,82.4,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180545848,P,Reguler,SMKS IT RAFLESIA,Kota Depok,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,39,85.37,Tidak Lulus,Tidak Lulus,10.4,10.7,1,0,10.7,10.7,10.7,10.7
+4180546130,P,Reguler,SMAN 1 DAYEUHKOLOT,Kab Bandung,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,264,79.67,Tidak Lulus,Tidak Lulus,10,10,1,0,10,10,10,10
+4180547961,L,Reguler,SMAS YADIKA 13,Kab Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,34,82.2,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180548121,P,Bidik Misi,MAN 2 CIAMIS,Kab Ciamis,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,147,79.84,Tidak Lulus,Tidak Lulus,10.2,10,1,0,10,10,10,10
+4180548155,P,Reguler,SMKS YPIB,Kab Majalengka,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,59,82.37,Tidak Lulus,Tidak Lulus,10.2,10.3,1,0,10.3,10.3,10.3,10.3
+4180551711,P,Reguler,SMKS IT RAFLESIA,Kota Depok,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,39,88.11,Tidak Lulus,Tidak Lulus,10.4,11,1,0,11,11,11,11
+4180553397,L,Reguler,SMKN 2 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,137,81.81,Tidak Lulus,Tidak Lulus,10.1,10.2,1,0,10.2,10.2,10.2,10.2
+4180554075,L,Reguler,SMAS PLUS AL GHIFARI BANDUNG,Kota Bandung,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,50,81.54,Tidak Lulus,Tidak Lulus,10,10.2,1,0,10.2,10.2,10.2,10.2
+4180554734,L,Reguler,SMAN 2 PRINGSEWU,Kab Pringsewu,Lampung,AGRIBISNIS ,Tidak Memilih,130,81.17,Tidak Lulus,Tidak Lulus,10.3,10.1,1,0,10.1,10.1,10.1,10.1
+4180555647,L,Bidik Misi,SMKS KESEHATAN BHAKTI KENCANA,Kab Garut,Jawa Barat,GIZI,Tidak Memilih,87,82.21,Tidak Lulus,Tidak Lulus,10.5,10.3,1,0,10.3,10.3,10.3,10.3
+4180558053,P,Reguler,SMAN 5 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,224,84.77,MANAJEMEN,pil_1,10.8,10.6,1,0,10.6,10.6,10.6,10.6
+4180558312,P,Reguler,MAN TALAGA,Kab Majalengka,Jawa Barat,PENDIDIKAN MATEMATIKA,Tidak Memilih,85,91.88,PENDIDIKAN MATEMATIKA,pil_1,11.6,11.5,1,0,11.5,11.5,11.5,11.5
+4180558336,L,Reguler,SMKS MITRA INDUSTRI,Kab Bekasi,Jawa Barat,TEKNIK ELEKTRO ,Tidak Memilih,38,81.44,Tidak Lulus,Tidak Lulus,10.1,10.2,1,0,10.2,10.2,10.2,10.2
+4180560706,L,Reguler,SMKN 2 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,137,82.92,Tidak Lulus,Tidak Lulus,10,10.4,1,0,10.4,10.4,10.4,10.4
+4180561125,L,Reguler,SMAS RIMBA MADYA,Kota Bogor,Jawa Barat,MANAJEMEN,Tidak Memilih,143,78.03,Tidak Lulus,Tidak Lulus,9.8,9.8,1,0,9.8,9.8,9.8,9.8
+4180561197,P,Reguler,SMAN 8 BEKASI,Kota Bekasi,Jawa Barat,GIZI,Tidak Memilih,187,79.87,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180563006,P,Reguler,SMAS BAITUL HIKMAH TAROGONG KALER,Kab Garut,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,21,83.74,Tidak Lulus,Tidak Lulus,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180563329,P,Reguler,SMKN 2 GARUT,Kab Garut,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,93,80.93,Tidak Lulus,Tidak Lulus,10.6,10.1,1,0,10.1,10.1,10.1,10.1
+4180563483,L,Reguler,SMAN 1 BAREGBEG,Kab Ciamis,Jawa Barat,AKUNTANSI,Tidak Memilih,64,85.39,Tidak Lulus,Tidak Lulus,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180564134,L,Reguler,SMKN 4 TANGERANG,Kota Tangerang,Banten,TEKNIK ELEKTRO ,Tidak Memilih,40,79.04,Tidak Lulus,Tidak Lulus,10.7,9.9,1,0,9.9,9.9,9.9,9.9
+4180564433,P,Reguler,MAN 4 JOMBANG,Kab Jombang,Jawa Timur,EKONOMI SYARIAH,Tidak Memilih,55,82.98,Tidak Lulus,Tidak Lulus,10.4,10.4,1,0,10.4,10.4,10.4,10.4
+4180565137,P,Reguler,MAS MU ALLIMIEN MUHAMMADIYAH,Kab Bogor,Jawa Barat,PENDIDIKAN SEJARAH,Tidak Memilih,78,79.94,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180315465,L,Reguler,SMAN 1 SINGAPARNA,Kab Tasikmalaya,Jawa Barat,TEKNIK SIPIL,Tidak Memilih,254,85.56,TEKNIK SIPIL,pil_1,10.9,10.7,1,0,10.7,10.7,10.7,10.7
+4180565852,P,Reguler,SMAN 1 BEBER,Kab Cirebon,Jawa Barat,MANAJEMEN,Tidak Memilih,133,78.74,Tidak Lulus,Tidak Lulus,9.9,9.8,1,0,9.8,9.8,9.8,9.8
+4180337393,L,Reguler,SMAN 2 TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,TEKNIK SIPIL,Tidak Memilih,277,85.88,TEKNIK SIPIL,pil_1,10.9,10.7,1,0,10.7,10.7,10.7,10.7
+4180569410,P,Reguler,SMKN MANONJAYA,Kab Tasikmalaya,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,74,79.3,Tidak Lulus,Tidak Lulus,10.4,9.9,1,0,9.9,9.9,9.9,9.9
+4180393187,L,Reguler,SMA AL MUTTAQIN,Kota Tasikmalaya,Jawa Barat,TEKNIK SIPIL,Tidak Memilih,107,85.42,TEKNIK SIPIL,pil_1,10.8,10.7,1,0,10.7,10.7,10.7,10.7
+4180570491,L,Reguler,SMAS MUHAMMADIYAH TASIKMALAYA,Kota Tasikmalaya,Jawa Barat,MANAJEMEN,Tidak Memilih,18,82.74,Tidak Lulus,Tidak Lulus,10.2,10.3,1,0,10.3,10.3,10.3,10.3
+4180570492,P,Reguler,SMAN 1 CITEUREUP,Kab Bogor,Jawa Barat,AKUNTANSI,Tidak Memilih,190,82.56,Tidak Lulus,Tidak Lulus,10.4,10.3,1,0,10.3,10.3,10.3,10.3
+4180570684,P,Reguler,SMA NEGERI  1 CIRANJANG,Kab Cianjur,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,223,84.26,Tidak Lulus,Tidak Lulus,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180572460,P,Reguler,SMKN 1 LOSARANG,Kab Indramayu,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,70,82.29,Tidak Lulus,Tidak Lulus,10.6,10.3,1,0,10.3,10.3,10.3,10.3
+4180573186,P,Reguler,SMA NEGERI 4 LUBUKLINGGAU,Kota Lubuklinggau,Sumatera Selatan,MANAJEMEN,Tidak Memilih,81,80.1,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180573801,P,Reguler,SMAS YADIKA 11,Kota Bekasi,Jawa Barat,MANAJEMEN,Tidak Memilih,157,81.22,Tidak Lulus,Tidak Lulus,10.2,10.2,1,0,10.2,10.2,10.2,10.2
+4180574317,P,Reguler,SMAN 1 BANTARUJEG,Kab Majalengka,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,92,79.19,Tidak Lulus,Tidak Lulus,10,9.9,1,0,9.9,9.9,9.9,9.9
+4180574655,L,Reguler,SMKN 2 BANJAR,Kota Banjar,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,138,81.59,Tidak Lulus,Tidak Lulus,10.6,10.2,1,0,10.2,10.2,10.2,10.2
+4180575626,L,Reguler,SMA NEGERI 1 PATIMUAN,Kab Cilacap,Jawa Tengah,"PENDIDIKAN JASMANI, KESEHATAN DAN REKREASI ",Tidak Memilih,60,88.48,Tidak Lulus,Tidak Lulus,11.1,11.1,1,0,11.1,11.1,11.1,11.1
+4180575731,P,Bidik Misi,SMAN 1 JASINGA,Kab Bogor,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,145,87.59,Tidak Lulus,Tidak Lulus,11.1,10.9,1,0,10.9,10.9,10.9,10.9
+4180575850,L,Reguler,SMKN 6 GARUT,Kab Garut,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,134,84.48,Tidak Lulus,Tidak Lulus,11.1,10.6,1,0,10.6,10.6,10.6,10.6
+4180576795,L,Reguler,SMKN 1 CIREBON,Kota Cirebon,Jawa Barat,TEKNIK SIPIL ,Tidak Memilih,121,78.23,Tidak Lulus,Tidak Lulus,10.5,9.8,1,0,9.8,9.8,9.8,9.8
+4180576950,P,Reguler,SMAN 6 GARUT,Kab Garut,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,307,84.02,Tidak Lulus,Tidak Lulus,10.7,10.5,1,0,10.5,10.5,10.5,10.5
+4180577099,L,Reguler,SMKN 3 KUNINGAN,Kab Kuningan,Jawa Barat,EKONOMI SYARIAH,Tidak Memilih,103,80,Tidak Lulus,Tidak Lulus,10.7,10,1,0,10,10,10,10
+4180578542,L,Bidik Misi,SMAN 1 CIASEM,Kab Subang,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,142,79.52,Tidak Lulus,Tidak Lulus,10.1,9.9,1,0,9.9,9.9,9.9,9.9
+4180578708,L,Reguler,SMKN 4 GARUT,Kab Garut,Jawa Barat,MANAJEMEN,Tidak Memilih,128,79.76,Tidak Lulus,Tidak Lulus,10.1,10,1,0,10,10,10,10
+4180579065,P,Reguler,SMKS TAMAN HARAPAN,Kota Bekasi,Jawa Barat,GIZI,Tidak Memilih,60,83.16,Tidak Lulus,Tidak Lulus,10.1,10.4,1,0,10.4,10.4,10.4,10.4
+4180579363,P,Bidik Misi,MAN 2 CIAMIS,Kab Ciamis,Jawa Barat,PENDIDIKAN BIOLOGI,Tidak Memilih,147,78.45,Tidak Lulus,Tidak Lulus,10,9.8,1.1,0,9.8,9.8,9.8,9.8
+4180579555,P,Reguler,MAN SUKAJADI,Kab Ciamis,Jawa Barat,PENDIDIKAN BAHASA DAN SASTRA INDONESIA,Tidak Memilih,51,81.77,Tidak Lulus,Tidak Lulus,10.4,10.2,1.1,0,10.2,10.2,10.2,10.2
+4180583627,L,Reguler,SMAN 13 Kota Depok,Kota Depok,Jawa Barat,EKONOMI PEMBANGUNAN,Tidak Memilih,195,84.07,Tidak Lulus,Tidak Lulus,10.5,10.5,1,0,10.5,10.5,10.5,10.5
+4180583721,P,Reguler,SMAN 1 KRANGKENG,Kab Indramayu,Jawa Barat,KESEHATAN MASYARAKAT,Tidak Memilih,182,88.19,Tidak Lulus,Tidak Lulus,11.1,11,1,0,11,11,11,11
+4180586294,L,Reguler,SMKN 1 KAWALI,Kab Ciamis,Jawa Barat,TEKNIK INFORMATIKA,Tidak Memilih,67,83.33,Tidak Lulus,Tidak Lulus,10.1,10.4,1,0,10.4,10.4,10.4,10.4
+4180570009,L,Reguler,SMAN 1 KARANGNUNGGAL,Kab Tasikmalaya,Jawa Barat,TEKNIK SIPIL,Tidak Memilih,256,84.88,TEKNIK SIPIL,pil_1,10.7,10.6,1,0,10.6,10.6,10.6,10.6
+4180590124,L,Reguler,SMKN 2 KOTA SERANG,Kota Serang,Banten,TEKNIK INFORMATIKA,Tidak Memilih,82,81.22,Tidak Lulus,Tidak Lulus,10.6,10.2,1,0,10.2,10.2,10.2,10.2
+4180590139,L,Reguler,SMKN 2 KOTA SERANG,Kota Serang,Banten,TEKNIK INFORMATIKA,Tidak Memilih,82,84.21,Tidak Lulus,Tidak Lulus,10.6,10.5,1,0,10.5,10.5,10.5,10.5
